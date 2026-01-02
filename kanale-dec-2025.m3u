@@ -30,10 +30,10 @@ http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXytqgKXKg_criBmlKxffPA/ts
 http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdYBnFe-yVMuFXDsZ7aJ_7Y/ts
 #EXTINF:-1 group-title="Albania",Big Brother KOSOVA 2
 http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdfIjCovBjgdqtiuE43XZPg/ts
-#EXTINF:-1 group-title="Albania",Ferma VIP 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAS9g01-f_Fs6NpPRG-Y0Jkg/ts
-#EXTINF:-1 group-title="Albania",Ferma VIP 2
+#EXTINF:-1 group-title="Albania",Big Brother 1 AL
 http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWxwAPCG34kD-RLvNGAtMBI/ts
+#EXTINF:-1 group-title="Albania",Big Brother 2 AL
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAS9g01-f_Fs6NpPRG-Y0Jkg/ts
 #EXTINF:-1 group-title="Albania",Klan Kosova
 http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATXNw83EOroNJqfzdJ3pX_w/ts
 #EXTINF:-1 group-title="Albania",Tv Dukagjini
@@ -938,6 +938,54 @@ http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYqgABYB1hXkJ-WfjCiTjEY/ts
 http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcAj-yIijQJRmjIKJOYvdLE/ts
 #EXTINF:-1 group-title="Italian",TVE INTERNACIONAL EUROPA
 http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASGEIwpFmDpW58xuA2Xh2kM/ts
+#EXTINF:-1,=============== Arab ===============
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARbc1yntnLKhc6YXF3FGZd0/ts
+#EXTINF:-1 group-title="Arab",Zad TV
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARkygYH8isovgteVkNIfiLw/ts
+#EXTINF:-1 group-title="Arab",8 TV RU
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXeRO9NQTXuS6rQ2mSEN0z8/ts
+#EXTINF:-1 group-title="Arab",AL Fady
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARJQ-iR1piH5RKZdLp1Q1Ik/ts
+#EXTINF:-1 group-title="Arab",AL Hiwar
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYnCaY1BpVJfP0XxY6K67x8/ts
+#EXTINF:-1 group-title="Arab",TV Coran
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaOZRYL1wDKcXAKTi4_5tC4/ts
+#EXTINF:-1 group-title="Arab",Sat 7 Pars
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAa6EusFF1g80DzrAfTkpQPs/ts
+#EXTINF:-1 group-title="Arab",Orient News
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAabX55yEjCeQpLevPhcjnLM/ts
+#EXTINF:-1 group-title="Arab",AL Arabia HD
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbVsYn5BIW1H62IcQjYOy1E/ts
+#EXTINF:-1 group-title="Arab",AL Sharqiya HD
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXJBsUoZVgrDW7tjEcOtRQ4/ts
+#EXTINF:-1 group-title="Arab",Imam Hussein 1
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfItZ-8tP-2nUBu03mWMZMA/ts
+#EXTINF:-1 group-title="Arab",SKY NEWS ARABIA
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXEmFI5yjSGXdipo4kd7ysw/ts
+#EXTINF:-1,=============== Spain & Portugal ===============
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcPjnspVcpwC-69SflYgeGQ/ts
+#EXTINF:-1 group-title="Spain & Portugal",Tvga ES
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAe1kAwbvij-yvCGz4zRvdWg/ts
+#EXTINF:-1 group-title="Spain & Portugal",Sic Noticias
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASa-WQPHJV7DnWUTkpudtxg/ts
+#EXTINF:-1 group-title="Spain & Portugal",TBN AFRIKA
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXvhG_PA96QVwEWatkSHay0/ts
+#EXTINF:-1 group-title="Spain & Portugal",TV Record ES
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYtZeWzv2NMNgfUuhBrBVSg/ts
+#EXTINF:-1,=============== Russia ===============
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcczNYmN3u2AXdk_hq6g6SU/ts
+#EXTINF:-1 group-title="Russia",TV Rus
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUj3zQIokjvprapshHeO0SA/ts
+#EXTINF:-1 group-title="Russia",Noviy Mir
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUQYkD74G3BfNMIMZ5TshrQ/ts
+#EXTINF:-1 group-title="Russia",Russia 24
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAec5N49sbtGSjrSJ6xYeSY4/ts
+#EXTINF:-1 group-title="Russia",Russia Today News HD
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYA7TXjekhziAWhAAr6Ob3M/ts
+#EXTINF:-1,=============== Romania ===============
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWZSI4-TqympNzrSlJ0wVv8/ts
+#EXTINF:-1 group-title="Romania",PRO TV INT
+http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXjXfnTzns1MX51h3PZLsi8/ts
 #EXTINF:-1,=============== Others ===============
 http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVT5dIcU3FW7y7crORxcWlI/ts
 #EXTINF:-1 group-title="Others",CGTN
