@@ -1,1330 +1,275 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 group-title="Albania",RTK Sat
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbesvTmKngVvZb89eD9WZlw/ts
-#EXTINF:-1 group-title="Albania",Rtk 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQ97vQ02QdabL2WOyohpZEE/ts
-#EXTINF:-1 group-title="Albania",Rtk 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQigSo_sGq-TjbQ4xxjVGHA/ts
-#EXTINF:-1 group-title="Albania",Rtk 3
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAb3-YLu1qFyyyP4LFL6DOLw/ts
-#EXTINF:-1 group-title="Albania",Kanal 10
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAR3BGhWoE1K710M7GXxjJ3I/ts
-#EXTINF:-1 group-title="Albania",Rtk 4
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAd1da-1pUQ8nIjpr_yTmIM8/ts
-#EXTINF:-1 group-title="Albania",Ktv
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASHUHLgNWhS0C8sS4aAdRyM/ts
-#EXTINF:-1 group-title="Albania",RTV 21
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWe65Mt_xQoBXtSpbiL9s20/ts
-#EXTINF:-1 group-title="Albania",T7
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUuM6lojIXRm5KEwlnxblqQ/ts
-#EXTINF:-1 group-title="Albania",ATV AL
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAf1bBAOZKV8PbrUu73C9M8w/ts
-#EXTINF:-1 group-title="Albania",Alsat M
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAePU6OY40FioUMnjcUC-ZYw/ts
-#EXTINF:-1 group-title="Albania",TV Klan
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdAW3vlTt2-QO2NbexWiOHI/ts
-#EXTINF:-1 group-title="Albania",TOP CHANNEL
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXytqgKXKg_criBmlKxffPA/ts
-#EXTINF:-1 group-title="Albania",Big Brother KOSOVA 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdYBnFe-yVMuFXDsZ7aJ_7Y/ts
-#EXTINF:-1 group-title="Albania",Big Brother KOSOVA 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdfIjCovBjgdqtiuE43XZPg/ts
-#EXTINF:-1 group-title="Albania",Big Brother 1 AL
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWxwAPCG34kD-RLvNGAtMBI/ts
-#EXTINF:-1 group-title="Albania",Big Brother 2 AL
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAS9g01-f_Fs6NpPRG-Y0Jkg/ts
-#EXTINF:-1 group-title="Albania",Klan Kosova
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATXNw83EOroNJqfzdJ3pX_w/ts
-#EXTINF:-1 group-title="Albania",Tv Dukagjini
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXpRXHV4P6uPlamiWdXt29k/ts
-#EXTINF:-1 group-title="Albania",TeVe 1 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQVvaux3JKPEc-v7fIHkPLA/ts
-#EXTINF:-1 group-title="Albania",Vizion Plus
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXfk2BCU2t2nYAhO7K1crBo/ts
-#EXTINF:-1 group-title="Albania",Syri TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYbyjIZHjOKQ1jzdITQNgbw/ts
-#EXTINF:-1 group-title="Albania",Klan M
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAeh8wYXPagmD85qJG3vQlbM/ts
-#EXTINF:-1 group-title="Albania",Klan Plus
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQVrJ6HTThHqCxPpECGiLAg/ts
-#EXTINF:-1 group-title="Albania",ITS MY HOME
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASA9Cgh3k6uuviXUU4EWQRs/ts
-#EXTINF:-1 group-title="Albania",RTSH Sat
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASe8A1s4IPmS4fjRLclwTlY/ts
-#EXTINF:-1 group-title="Albania",RTSH 3
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcv4rD622wKRsw7jDe7Ukhg/ts
-#EXTINF:-1 group-title="Albania",RTSH Plus
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAV1IGanySm9FT_plDqsTUA8/ts
-#EXTINF:-1 group-title="Albania",RTSH 24 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAderuR9-ujTmj2gMfyA8cvs/ts
-#EXTINF:-1 group-title="Albania",RTSH Shqip
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYXZCGdJBFlj8h90ooLKpwI/ts
-#EXTINF:-1 group-title="Albania",RTSH Muzike
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdez7VefxtqHdCl62BGfKNQ/ts
-#EXTINF:-1 group-title="Albania",TV Koha Tetove
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAU3XIJ5nTHIx04f7nUwv1ao/ts
-#EXTINF:-1 group-title="Albania",EXPLORER NATYRA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYm-8-bwyGrO51aqS4erp8k/ts
-#EXTINF:-1 group-title="Albania",EXPLORER HISTORI
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAV6vj315CyWPEjf6jcecTsA/ts
-#EXTINF:-1 group-title="Albania",EXPLORER SHKENCE
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZ4YqhC-BnbN-O6r-BP5Kbg/ts
-#EXTINF:-1 group-title="Albania",X Premium 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAa7D_39oJfcQqx4EAoSHKTI/ts
-#EXTINF:-1 group-title="Albania",X Premium 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcxQ6Yxc_YAU3jPuQCoiLbI/ts
-#EXTINF:-1 group-title="Albania",X Premium 4
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASPjwuiKi4hekXLZwXGaMSk/ts
-#EXTINF:-1 group-title="Albania",X COMEDY
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfYQTg4ZpP1LXoME2Kxv_hQ/ts
-#EXTINF:-1 group-title="Albania",X Family
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAddHm-hqJN5-0Mo-IXS6flQ/ts
-#EXTINF:-1 group-title="Albania",X Western
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARxLDowdB1ZwLhDRprTaIX4/ts
-#EXTINF:-1 group-title="Albania",Film Hits
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZHw37oIw98ChSacIePZ6fo/ts
-#EXTINF:-1 group-title="Albania",Film Autor
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAd-NV8jR-gq7jcApUiwO-68/ts
-#EXTINF:-1 group-title="Albania",Film Aksion
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZOajioy9DPIFWwc_5P_Yok/ts
-#EXTINF:-1 group-title="Albania",Film Thriller
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVkjgo5G4cN90vHDLb8Oxjo/ts
-#EXTINF:-1 group-title="Albania",Film Drama
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARKiLn-8U1uNEQ-91kRmUH4/ts
-#EXTINF:-1 group-title="Albania",Film Komedi
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbb-cdwEzrCIlazn9oochoU/ts
-#EXTINF:-1 group-title="Albania",Digi Gold
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXLnGh2xr95v4_lNE6i2HL4/ts
-#EXTINF:-1 group-title="Albania",Kanal D Drama
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATTckF3cmEhRuyN8yhRx1rE/ts
-#EXTINF:-1 group-title="Albania",ISTOGU CHANNEL HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAW_vIJk7SW1oIdUFZ5DeVys/ts
-#EXTINF:-1 group-title="Albania",Tring Life
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATNmU9vXcTFomN8wehGLRHA/ts
-#EXTINF:-1 group-title="Albania",Tring Kids
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVuSvQw5nwdxwQqUZul8ii0/ts
-#EXTINF:-1 group-title="Albania",Tring Jolly
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAawOGt16IoUgRM-04ho4n5g/ts
-#EXTINF:-1 group-title="Albania",Tring Smile
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASDRg689SRKBNWiCHMCU-x4/ts
-#EXTINF:-1 group-title="Albania",Tring 3 Plus
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAT9w1h5rXegiQBRGm1lyOqQ/ts
-#EXTINF:-1 group-title="Albania",Tring Super
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbYhdDA_KBMBezVRlCCMtL4/ts
-#EXTINF:-1 group-title="Albania",Tring Shqip
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZZyqESjVEWhSt3PKwLRQqY/ts
-#EXTINF:-1 group-title="Albania",Tring World
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAV_RYwjCR6MSuThmS7KSRI0/ts
-#EXTINF:-1 group-title="Albania",Tring Planet
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfxEXBCz4R-wRTcK8mScdi4/ts
-#EXTINF:-1 group-title="Albania",Tring Aksion
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQD6C2Btx5TXyh911lz0Als/ts
-#EXTINF:-1 group-title="Albania",TRING HISTORY
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcA0yqpFAtJ-tXClrvmJeDE/ts
-#EXTINF:-1 group-title="Albania",Tring Fantasy
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfl3UAjiCYhal5tEeveuGSU/ts
-#EXTINF:-1 group-title="Albania",TRING COMEDY
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbP4DqyLVdBxiWU6r8dzntY/ts
-#EXTINF:-1 group-title="Albania",Tring Tring
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATWYWurfY6beFwM-i86zm8M/ts
-#EXTINF:-1 group-title="Albania",National Geo AL
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZ7sWvtrJ63QxMQn32cltjQ/ts
-#EXTINF:-1 group-title="Albania",Living HD AL
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARMJGdH-XuLepSs65mwDPJo/ts
-#EXTINF:-1 group-title="Albania",Syri Vision
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUwD0hzyy8nBxf63hYUDObo/ts
-#EXTINF:-1 group-title="Albania",A2 CNN
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWrVwd-sq9sESQMZY75Y9KM/ts
-#EXTINF:-1 group-title="Albania",EURONEWS ALBANIA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAc6EBkF8wWsfK-GfkOM3ZRk/ts
-#EXTINF:-1 group-title="Albania",TV News
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAe-9cHtMhI86tHx9GuwV2eA/ts
-#EXTINF:-1 group-title="Albania",Ora News
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATWIe4FgHSvpn3qKfRMTE4A/ts
-#EXTINF:-1 group-title="Albania",News 24 AL
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYqWeaPX0GHGC-Iops0OYqk/ts
-#EXTINF:-1 group-title="Albania",Top News
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQCoxUKxK19fdPOtyWVQohE/ts
-#EXTINF:-1 group-title="Albania",TV Arta
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWR-9gQy8FAZPNEwRGx1Y20/ts
-#EXTINF:-1 group-title="Albania",Kanali 7
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZmw-A6nIx9o4EIBwQgHqfA/ts
-#EXTINF:-1 group-title="Albania",Fax News
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcYT04CiQkPJ_TJ_Iq0co_w/ts
-#EXTINF:-1 group-title="Albania",Abc News
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATjr9P9H7M-NVz14-1mDHFc/ts
-#EXTINF:-1 group-title="Albania",tv Vijesti
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASmxjy7pfvrXDpqzkik7FPs/ts
-#EXTINF:-1 group-title="Albania",Alb UK
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWmqHuHWWkfSY1PybsL-8L8/ts
-#EXTINF:-1 group-title="Albania",AL: Top Estrada HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZKhNokwlmmXu7n1r7BjeDQ/ts
-#EXTINF:-1 group-title="Albania",RTV Fontana
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUqaM5hVaNH-eFokK66IsCY/ts
-#EXTINF:-1 group-title="Albania",TV Dielli
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASgNuFBTfLvzA5lIwKgRVqU/ts
-#EXTINF:-1 group-title="Albania",RTV Aldi
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARLty4GYsBkxoLntPwrzWsA/ts
-#EXTINF:-1 group-title="Albania",Rtv 21 M
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWAsDuuCsD7p22Cw4GFv8ms/ts
-#EXTINF:-1 group-title="Albania",TV Mitrovica
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAULprau5st5VAaC1vkZdzr0/ts
-#EXTINF:-1 group-title="Albania",TV ERA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdtc9hrzuMNhhJ_qLDovQVs/ts
-#EXTINF:-1 group-title="Albania",TV SHENJA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQnQglWrmeTddlQ2KJwGh3M/ts
-#EXTINF:-1 group-title="Albania",RTV 21 MIX
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQyNCUmmIERWzEiYGM3Hd2c/ts
-#EXTINF:-1 group-title="Albania",FIRST CHANNEL
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAY-xK6slX6KQD2A5fpbvEaw/ts
-#EXTINF:-1 group-title="Albania",RTV 21 POPULLORE
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAajr7W60SeJpi8tQAqKhHzY/ts
-#EXTINF:-1 group-title="Albania",Rtv21 Plus
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdqNOxQhg5Plh2H2QlIWr6U/ts
-#EXTINF:-1 group-title="Albania",BlueSKY TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZls4ik9SVuDN_kZx0maBQk/ts
-#EXTINF:-1 group-title="Albania",Elrodi
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAT4ITESGgO--IxQ_FzQwTZI/ts
-#EXTINF:-1 group-title="Albania",RTV 21 JUNIOR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAT-PkJ7L1a51Domd9IGyCgs/ts
-#EXTINF:-1 group-title="Albania",DTV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAf5R96oA940Du8UUO0vmKb8/ts
-#EXTINF:-1 group-title="Albania",Folk+
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWCj7e_9CsraKyEA2G-qVIE/ts
-#EXTINF:-1 group-title="Albania",Bbf
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUfsxkjiRI_kSEaXymYS7E4/ts
-#EXTINF:-1 group-title="Albania",Spin TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaoht4x1r8oXkmalJlPCVIo/ts
-#EXTINF:-1 group-title="Albania",TV opoja
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZ0kKQz5a_w4cj7r3nIsliQ/ts
-#EXTINF:-1 group-title="Albania",Zico TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWnDiQiIWE0vEjZdJrSMHS4/ts
-#EXTINF:-1 group-title="Albania",Cufo AL
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAW4xk-NsBnZB2WQYuO9JGaQ/ts
-#EXTINF:-1 group-title="Albania",Bang Bang AL
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWS2dFTgqFh1ELSmnWefEy8/ts
-#EXTINF:-1 group-title="Albania",Peace TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAf61K6pcVgaSVrVBlgom8js/ts
-#EXTINF:-1 group-title="Albania",TV Meka
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUw3s7k5vOk_7MvFjoChYmc/ts
-#EXTINF:-1 group-title="Albania",RTV Islam
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaCJJSWAzN9o299ti8VWozE/ts
-#EXTINF:-1,=============== Sport ===============
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaHcGw5xpPg2mfXQhpyx2vo/ts
-#EXTINF:-1 group-title="Sport",Sport AL 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdCyqlt4pDGyTBa3jcmuZT4/ts
-#EXTINF:-1 group-title="Sport",Sport AL 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcoxYmJGxSmkz_6eWR31XBQ/ts
-#EXTINF:-1 group-title="Sport",Sport AL 3
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUTTIWYOSZwoI8yHCJTQhtg/ts
-#EXTINF:-1 group-title="Sport",Sport AL 4
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWsLU33BI872KGVUoFYdWlQ/ts
-#EXTINF:-1 group-title="Sport",Tring Sport News
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATp28liB_8-eYGC4hJvC2ds/ts
-#EXTINF:-1 group-title="Sport",Tring Sport 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAeB9dh3j3bgN7OqeCfFdUe4/ts
-#EXTINF:-1 group-title="Sport",Tring Sport 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZyvYBCbKAIg-VUSJyzCK-I/ts
-#EXTINF:-1 group-title="Sport",Tring Sport 3
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASD9nHHAbGYWh8-C5MYRN_c/ts
-#EXTINF:-1 group-title="Sport",Tring Sport 4
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVcM_HAAsYAa7KRWoQeRzlw/ts
-#EXTINF:-1 group-title="Sport",ART Sport 1 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVHtc5mAXMJ_bZce6eZf4-0/ts
-#EXTINF:-1 group-title="Sport",ART Sport 2 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAanLqCDelqs5sOzLNI1o5Lo/ts
-#EXTINF:-1 group-title="Sport",ART Sport 3 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATbTtXmHbHbsmdbCt4rzAW8/ts
-#EXTINF:-1 group-title="Sport",ART Sport 4 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATNFsZNMdR6CuafPgL2PPso/ts
-#EXTINF:-1 group-title="Sport",ART Sport 5 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAd6DvPCQv4YuRZF5OndKn-Q/ts
-#EXTINF:-1 group-title="Sport",ART Sport 6 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXpgVHjj_apE4Y-_N4CfOsU/ts
-#EXTINF:-1 group-title="Sport",Kujtesa Sport 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAR9DV_C_mlnDUpdrnFgYzxQ/ts
-#EXTINF:-1 group-title="Sport",Kujtesa Sport 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaJXww0QjuNea8vi6FPuraI/ts
-#EXTINF:-1 group-title="Sport",Kujtesa Sport 3
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaBHuQEQlDb9jQrg2XdMWog/ts
-#EXTINF:-1 group-title="Sport",Kujtesa Sport 4
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAf3MFMQ63mlwcIXw178j9fI/ts
-#EXTINF:-1 group-title="Sport",Eurosport 1 SP
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXsdsIkbPwjdV5Rf0wd5XKQ/ts
-#EXTINF:-1 group-title="Sport",Eurosport 2 SP
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfZjVjf2J37wAbd3DqMjXKk/ts
-#EXTINF:-1 group-title="Sport",DAZN SPORT 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUxXytTA4BVuDeNCnVFSErQ/ts
-#EXTINF:-1 group-title="Sport",DAZN SPORT 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAeI72cPtlbeujmrJPL15wGY/ts
-#EXTINF:-1 group-title="Sport",DAZN 1 USA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAeXnAvhHm7fKEkopYQtVK0E/ts
-#EXTINF:-1 group-title="Sport",DAZN 1 SP
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfw9mQk1wd3ZZ-GMOH07jPs/ts
-#EXTINF:-1 group-title="Sport",DAZN 2 SP
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXplyDD54FneqnMx0qCTsDY/ts
-#EXTINF:-1 group-title="Sport",DAZN F1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUwq0G52Kj6EXOM97vTo7-Y/ts
-#EXTINF:-1 group-title="Sport",DAZN Combat
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaCgS5fOI16Lmu9RQUZAI8c/ts
-#EXTINF:-1 group-title="Sport",DAZN ZONA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWH4SmYv4dmsh-LHmvpjrco/ts
-#EXTINF:-1 group-title="Sport",Dazn LA LIGA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVgTFvNZ3ur-rZ0w0GBsWzM/ts
-#EXTINF:-1 group-title="Sport",DAZN ELEVEN 1 USA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAckmV5XrPRDbqXX6h6e0JYU/ts
-#EXTINF:-1 group-title="Sport",DAZN ELEVEN 1 France
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdilAnWJoDpRZSSjrX9X8V4/ts
-#EXTINF:-1 group-title="Sport",CANAL+ LIGUE 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAW0i7IGoxCFbxJoP1CrNg_s/ts
-#EXTINF:-1 group-title="Sport",BT Sport 1 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUuZJLKuJQ1jrlQSyUkJn6Q/ts
-#EXTINF:-1 group-title="Sport",BT Sport 2 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbX3uqvm-TCI6iDG0bScCvY/ts
-#EXTINF:-1 group-title="Sport",BT Sport 3 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXTyouLVeQasZ0d-x6kW-qs/ts
-#EXTINF:-1 group-title="Sport",SS Kosova 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAR5UcxmCwLes_ermCBUIp4A/ts
-#EXTINF:-1 group-title="Sport",SS Kosova 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAR0KZgg4UBEFHZbI-xQkMNU/ts
-#EXTINF:-1 group-title="Sport",Sport Klub 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdvf4oZdDzsQU5Nk8fUtLV8/ts
-#EXTINF:-1 group-title="Sport",Sport Klub 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATRaFnZiwKqPNJDA7CNe2kM/ts
-#EXTINF:-1 group-title="Sport",Sport Klub 3
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAe06-5Wjg0zjzlQjC80Xynw/ts
-#EXTINF:-1 group-title="Sport",SKY BUNDESLIGA 1 (BACKUP)
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAb5l_WJ5bWzw70TLnxxReuY/ts
-#EXTINF:-1 group-title="Sport",SKY BUNDESLIGA 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAf0ID31un_rBumMsaeIpFo8/ts
-#EXTINF:-1 group-title="Sport",SKY BUNDESLIGA 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfTHe40q5EEBYIOr3SiZvDA/ts
-#EXTINF:-1 group-title="Sport",SKY BUNDESLIGA 3
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVd3ExPsrObJV0mUtZUR99s/ts
-#EXTINF:-1 group-title="Sport",SKY BUNDESLIGA 4
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAa3arMoRf9EiHXFr1L2WGMg/ts
-#EXTINF:-1 group-title="Sport",SKY BUNDESLIGA 5
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAV48CdP0wYve_lBHfGdHoe4/ts
-#EXTINF:-1 group-title="Sport",SKY BUNDESLIGA 6 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQizqrNEohWTtetDUOhN3x8/ts
-#EXTINF:-1 group-title="Sport",SKY BUNDESLIGA 7 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQNTJAt8q9Vr7JupkoVMqqc/ts
-#EXTINF:-1 group-title="Sport",SKY BUNDESLIGA 8 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAesE-6Fb0qlaW1IItbb4r5Q/ts
-#EXTINF:-1 group-title="Sport",SKY BUNDESLIGA 9 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYwFmChSI2CclktaMOqTM4k/ts
-#EXTINF:-1 group-title="Sport",SKY BUNDESLIGA 10 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATm_06fEE5FPVhV73ZXdpEo/ts
-#EXTINF:-1 group-title="Sport",DE: SKY SPORT NEWS
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcAiVAYYHrXCZXEqCcywcJ0/ts
-#EXTINF:-1 group-title="Sport",DE: SKY SPORT 1 DE
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZpZfam3wKtFNmZ3TuIQ2uk/ts
-#EXTINF:-1 group-title="Sport",DE: SKY SPORT 2 DE
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARqgOUXPVslPPi0nkxtnBY4/ts
-#EXTINF:-1 group-title="Sport",DE: SKY SPORT 1 DE (BACKUP)
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVpvDpnbdmf77I8o6aI-gWs/ts
-#EXTINF:-1 group-title="Sport",DE: SKY SPORT 2 DE (BACKUP)
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXHkFg3VRYhfBhQu4QXbuBU/ts
-#EXTINF:-1 group-title="Sport",SKY SPORT 24 IT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAR2_jG9US_InsTmkHGjX2XM/ts
-#EXTINF:-1 group-title="Sport",DE: SKY SPORT 3 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWIXs2SohUI_N-ohVGRmj2c/ts
-#EXTINF:-1 group-title="Sport",DE: SKY SPORT 4 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVK_3kLrifD-Pe0uO_sjdF0/ts
-#EXTINF:-1 group-title="Sport",DE: SKY SPORT 5 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASfuyzZ5AXKD1bN2LWwG-vg/ts
-#EXTINF:-1 group-title="Sport",DE: SKY SPORT 6 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAa3SL6pgG8Bnm5XIkgauwGM/ts
-#EXTINF:-1 group-title="Sport",DE: SKY SPORT 7 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAeY7TRPjbU3u-KMgO3MfmrU/ts
-#EXTINF:-1 group-title="Sport",DE: SKY SPORT 8 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWl5cNIRoPssH_RDyzO8uVg/ts
-#EXTINF:-1 group-title="Sport",DE: SKY SPORT 9 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAW_fi8dvJT_l0I-li7TiWMI/ts
-#EXTINF:-1 group-title="Sport",DE: SKY SPORT 10 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAULdMb1LWfqa_vpJI4Dx4nM/ts
-#EXTINF:-1 group-title="Sport",DE: SKY SPORT 12 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaVr7GNpWlR_-B9scnnPpu4/ts
-#EXTINF:-1 group-title="Sport",DE: SKY SPORT 13 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQ-Lalnfn79qle7QSvfphc4/ts
-#EXTINF:-1 group-title="Sport",DE: SKY SPORT 14 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWJ3RDmiZ-3vQwEgKdVHtuc/ts
-#EXTINF:-1 group-title="Sport",CH: MY SPORT 1 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARJBFs_35W1CJzupdvHM4GA/ts
-#EXTINF:-1 group-title="Sport",CH: MY SPORT 2 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAY8ZgjJ5w2hL2f9uuhLp-AY/ts
-#EXTINF:-1 group-title="Sport",CH: MY SPORT 3 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYGUQ5LqAZEnRKnSPFjwCPE/ts
-#EXTINF:-1 group-title="Sport",CH: MY SPORT 4 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZriQfpjIsTufRe7z0Y5XTs/ts
-#EXTINF:-1 group-title="Sport",CH: MY SPORT 5 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdLmQ350poB8POYRV6SiiKw/ts
-#EXTINF:-1 group-title="Sport",CH: MY SPORT 6 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXnAL9uE5FpdskbhF89scyk/ts
-#EXTINF:-1 group-title="Sport",DE: FC BAYERN TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUccS54L36lvP5FCtJj6uvw/ts
-#EXTINF:-1 group-title="Sport",Arena Sport 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAS2b7BWHHiMT0EV0RV-kcXg/ts
-#EXTINF:-1 group-title="Sport",Arena Sport 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAY0aavEf-pxxmdxZVgDUZrs/ts
-#EXTINF:-1 group-title="Sport",Arena Sport 3
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcosaCTczlcqCxn4bwqmEZY/ts
-#EXTINF:-1 group-title="Sport",Arena Sport 4
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdfm07Sdlg6kj_3hMc9IgJs/ts
-#EXTINF:-1 group-title="Sport",Arena Sport 5
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaG46xTXU1BDIV4cMd5DUUc/ts
-#EXTINF:-1 group-title="Sport",EuroSport 1 UK
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVfCv3mv49E6O12bKWAa1aU/ts
-#EXTINF:-1 group-title="Sport",EuroSport 2 UK
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAe4871Bbb6uSYhS9SQ7F68Q/ts
-#EXTINF:-1 group-title="Sport",AD SPORT 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYsQ7N0xlnPN5AlFHwldirg/ts
-#EXTINF:-1 group-title="Sport",SPORT 1 PLUS
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQG2h66Xw0g6BYKweyC4YoM/ts
-#EXTINF:-1 group-title="Sport",MY SPORTS ONE
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaNPBrzE5PwOGcgT-9i3Q88/ts
-#EXTINF:-1 group-title="Sport",RMC Sport News
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARG66Vn8HGKE40fH9tzmGlU/ts
-#EXTINF:-1 group-title="Sport",RMC Sport 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAc9MYP-HXOgFCpHuFMPIYjA/ts
-#EXTINF:-1 group-title="Sport",RMC Sport 3
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAV7zyMDBUi7jGCD0cV1K6uA/ts
-#EXTINF:-1 group-title="Sport",EUROSPORT 1 IT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZJbdbITYe_I_xYYOj6-DAE/ts
-#EXTINF:-1 group-title="Sport",EuroSport 2 IT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAe3uthzaJomuH7d_0rBCbHI/ts
-#EXTINF:-1 group-title="Sport",CH: BLUE SPORT 1 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASxxrc1-0VChuJ94bebXjj4/ts
-#EXTINF:-1 group-title="Sport",CH: BLUE SPORT 2 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcFDbsswZhyPoPsRi8tBOCs/ts
-#EXTINF:-1 group-title="Sport",BLUE SPORT EVENT 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdsYgD9x0Ck_6e9ChE-PRqs/ts
-#EXTINF:-1 group-title="Sport",BLUE SPORT EVENT 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcPM5G36SGLj5X-1rXQzHo0/ts
-#EXTINF:-1 group-title="Sport",Bein Sport 1 TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUM-BpdoQdOLwfqg3h9sM6Y/ts
-#EXTINF:-1 group-title="Sport",BEIN SPORT 1 TR (Backup)
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARNAHlWRW5vTyBYJUZ9m7PM/ts
-#EXTINF:-1 group-title="Sport",BEIN Sport 2 TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcTFbH_ze2i6lclzhvRDO1I/ts
-#EXTINF:-1 group-title="Sport",Bein Sport 3 TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYQhriD-Tt5dWNiJafDEitA/ts
-#EXTINF:-1 group-title="Sport",beIN Sport 4 (TR)
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASc3wM2RYHmnPT-VUgJkeOk/ts
-#EXTINF:-1 group-title="Sport",beIN Sport 1 FR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdAhUVx5BWcDlSqpmRTkQ9g/ts
-#EXTINF:-1 group-title="Sport",beIN Sport 2 FR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQ2VvwSbp6tvTGYOCHRFbPk/ts
-#EXTINF:-1 group-title="Sport",beIN Sport 3 FR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcipPtMv1P7nvq0sjU9BlaE/ts
-#EXTINF:-1 group-title="Sport",Bein Sport 5
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWaLclwAv8fZAxroMEKslRo/ts
-#EXTINF:-1 group-title="Sport",beIN Sport 6
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAR1isIVY6nJu_N4naiEByyA/ts
-#EXTINF:-1 group-title="Sport",Bein Sport 7
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfV9q0aTGz6J2cTbgvJ1dT4/ts
-#EXTINF:-1 group-title="Sport",Bein Sport 8
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfj_xO0mB8C9CVFt0pvCEr8/ts
-#EXTINF:-1 group-title="Sport",Bein Sport 9
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAc-4nFryBS9zHQ1Ls49uPGs/ts
-#EXTINF:-1 group-title="Sport",beIN Sport 10
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAf1u8-1ZpY10XA3ArdWkkeI/ts
-#EXTINF:-1 group-title="Sport",EuroSport 1 Ex-Yu
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYSHppgeD-Kx-Tnflsi6ZII/ts
-#EXTINF:-1 group-title="Sport",SPORT 1 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAeM5uNgnETiREProv86p_1M/ts
-#EXTINF:-1 group-title="Sport",EUROSPORT 1 DE
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAX185Xe41YC0PSrXY_xl1AE/ts
-#EXTINF:-1 group-title="Sport",SE: EUROSPORT 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATOVegTxHqKUaoBHMXJr6fM/ts
-#EXTINF:-1 group-title="Sport",Eurosport 1 TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAemcGA5KkBPl3nxBbKKjw_I/ts
-#EXTINF:-1 group-title="Sport",Eurosport 2 TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUue9JR7d5BAS_ov7sWxu4w/ts
-#EXTINF:-1 group-title="Sport",Eurosport 2 Ex-Yu
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcUDIbRw7TnbLS1YkwJGHFo/ts
-#EXTINF:-1 group-title="Sport",Spor Smart HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXF8hyzWchXE_QhoI6P0N-8/ts
-#EXTINF:-1 group-title="Sport",Sports TV TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAf9ThdM3-63bqvHuOpU69ak/ts
-#EXTINF:-1 group-title="Sport",TRT Spor
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAX51w02oob1aJ09i-yzbsqQ/ts
-#EXTINF:-1 group-title="Sport",TRT Spor 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWzQfsMT40qTmPFDHDgoxAo/ts
-#EXTINF:-1 group-title="Sport",CH: MY SPORT 7 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARU4YIOPal7B1C-0sZWa3jg/ts
-#EXTINF:-1 group-title="Sport",CH: MY SPORT 8 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQXdpHgeslcFIYjsywnvGPs/ts
-#EXTINF:-1 group-title="Sport",CH: MY SPORT 9 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYWP0S5sXvubcCwxR1kNh-g/ts
-#EXTINF:-1 group-title="Sport",A SPOR TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAX_p5_RZCsFeLFgKQyfcTj4/ts
-#EXTINF:-1 group-title="Sport",RMC SPORT 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYQWi7DUuNlZkfijcpNvsUA/ts
-#EXTINF:-1 group-title="Sport",RMC SPORT 4
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZqgnDNSF8tE8Sp1D-JTmtQ/ts
-#EXTINF:-1 group-title="Sport",Fight Box
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXV01szrhdnVuotMJ9CZDdk/ts
-#EXTINF:-1 group-title="Sport",REDBULL TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATXYx1NomLDyucDftepSI98/ts
-#EXTINF:-1 group-title="Sport",SRF 1 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYzggZOAlBDVoZ5v2DotKxw/ts
-#EXTINF:-1 group-title="Sport",SRF ZWEI HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWvo_RzAzL8F88mn0HSBhKI/ts
-#EXTINF:-1 group-title="Sport",SRF INFO HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfQIGZjRur1YZloboe9_Jn8/ts
-#EXTINF:-1 group-title="Sport",3+ HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAc8Lur1Axr_wyS9lxz9ZKcc/ts
-#EXTINF:-1 group-title="Sport",4+ HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaZqudeHq5GIeE-LJULwUxI/ts
-#EXTINF:-1 group-title="Sport",5+ HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVG0s80ZM-plj933b1HO59o/ts
-#EXTINF:-1 group-title="Sport",6+ HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdzxE5SejMQUhQ62YH7w8aE/ts
-#EXTINF:-1 group-title="Sport",7+ HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYZZwnKfGjF-gxPdRIj2gZc/ts
-#EXTINF:-1 group-title="Sport",ORF 1 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVHeQCOD_p-T_bFa52A2KNg/ts
-#EXTINF:-1 group-title="Sport",ORF 2 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdXAPI0MzJqHIEEXoGx0oa4/ts
-#EXTINF:-1 group-title="Sport",ORF 3
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAe_vEnKIXCdCZmicAHEdDKI/ts
-#EXTINF:-1 group-title="Sport",ORF SPORT+ HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZxwPlo0iTawl74C6Jpl5lc/ts
-#EXTINF:-1 group-title="Sport",TELE BASEL HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAecajUQXT4WNtaM0G238sIc/ts
-#EXTINF:-1 group-title="Sport",TELE BÄRN HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUD941uJTQo7w1Hjgxrk9bM/ts
-#EXTINF:-1 group-title="Sport",TELE ZURICH HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAelW0vvVBC2lf8hjmOqWOdg/ts
-#EXTINF:-1 group-title="Sport",TVO HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXSNreY88gXPLuxo-mD9zUM/ts
-#EXTINF:-1 group-title="Sport",RTL HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVYZls42IZN6vK_Fu48p7BU/ts
-#EXTINF:-1 group-title="Sport",RTL 2 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaIxp4VKwiL1L_fwsF1UZHY/ts
-#EXTINF:-1 group-title="Sport",RTL Nitro
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbNsAZBorPXZIxAag3VGp_Y/ts
-#EXTINF:-1 group-title="Sport",Super RTL HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAeZt1LrH_ILhVGHai1GKVQg/ts
-#EXTINF:-1 group-title="Sport",RTL up
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARFaqm99hpiqjr694yEY-hk/ts
-#EXTINF:-1 group-title="Sport",TOGGO PLUS
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbiM2aD3OkvBst7CIqvUjk0/ts
-#EXTINF:-1 group-title="Sport",PROSIEBEN HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbQ48af2hZdTYqml4FEfzo0/ts
-#EXTINF:-1 group-title="Sport",PROSIEBEN FUN
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbCCVp9iOsmNDy1ypQ24-4E/ts
-#EXTINF:-1 group-title="Sport",PROSIEBEN MAXX
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWU3EQZL_JydFzJIFFx6pWo/ts
-#EXTINF:-1 group-title="Sport",SAT 1 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASKp4QCaKK5pHTcY2DNW7PY/ts
-#EXTINF:-1 group-title="Sport",SAT 1 GOLD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATcs-IJsXf2Mz91tc1Y3CEg/ts
-#EXTINF:-1 group-title="Sport",VOX HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfDRxm6osrdTT6LD1VeSSgE/ts
-#EXTINF:-1 group-title="Sport",KABEL EINS HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWUaeUUDuQ8OI9hjCw8QqHs/ts
-#EXTINF:-1 group-title="Sport",KABEL EINS DOKU
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXs8RK5SeFRqFRxDZ9UjDts/ts
-#EXTINF:-1 group-title="Sport",KABEL EINS CLASSIC
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfFKb004k4NERs8Qx7HBX8M/ts
-#EXTINF:-1 group-title="Sport",DMAX HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQDGeHb2Ae-KzxTokUqi_fs/ts
-#EXTINF:-1 group-title="Sport",DISNEY CHANNEL HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWEjkBoso9I6c3gB9TugzH0/ts
-#EXTINF:-1 group-title="Sport",NICK TV HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZgBh0MtvU6odPjugdc02LU/ts
-#EXTINF:-1 group-title="Sport",NICKELODEON AT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcCwueDdnyAouXNO9CUHxjs/ts
-#EXTINF:-1 group-title="Sport",KIKA HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUd-Kr2XnIryvQcl7IusiD8/ts
-#EXTINF:-1 group-title="Sport",3 SAT HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAckR2PSe8ImDrJXTKXXwivo/ts
-#EXTINF:-1 group-title="Sport",ZDF HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAS-dYlfIp2MJyF6fb1yFw3s/ts
-#EXTINF:-1 group-title="Sport",ZDF NEO
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATTSvyurffKDkO4ddNYhtlM/ts
-#EXTINF:-1 group-title="Sport",ZDF INFO
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZXXQJ8YDzkESLKpYq_eBLE/ts
-#EXTINF:-1 group-title="Sport",DAS ERSTE HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdLWdm41lQxsgqnTfLWgo5c/ts
-#EXTINF:-1 group-title="Sport",TELE 5 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfrIEi7Q1G8eYd06qroTk1I/ts
-#EXTINF:-1 group-title="Sport",PHOENIX HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAexRcXw_41bF2zfXkISpt0M/ts
-#EXTINF:-1 group-title="Sport",ARTE HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAf5WuX5rAIt3R0jv6HrJWHM/ts
-#EXTINF:-1 group-title="Sport",SIXX
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARIy4GH5iebrtb0sQZcw6bo/ts
-#EXTINF:-1 group-title="Sport",SAT 1 NRW
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcvu9I9P8brPO5CAK0XxMdU/ts
-#EXTINF:-1 group-title="Sport",N24 DOKU
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZbZ3KPUOissFrsQUDUYSoc/ts
-#EXTINF:-1 group-title="Sport",RTL Living
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcrxf0U61WXdOu2QSPh0GXY/ts
-#EXTINF:-1 group-title="Sport",BERGBLICK HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATmFZTvYzgYn66mXWESNud4/ts
-#EXTINF:-1 group-title="Sport",SKY SHOWCASE
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAejZLdxYvaErgqmcH_2Ccec/ts
-#EXTINF:-1 group-title="Sport",HISTORY HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdfTpy3TM2UJ66-YtfKdNqc/ts
-#EXTINF:-1 group-title="Sport",NAT GEO HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYDMavjBmJm8K6b-eF9YAwU/ts
-#EXTINF:-1 group-title="Sport",DISCOVERY HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYszjF_87msLiqOI6H-k0B4/ts
-#EXTINF:-1 group-title="Sport",TELE Z HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZXjT_UobuJKsC1kYj-ASQQ/ts
-#EXTINF:-1 group-title="Sport",DMAX AUSTRIA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcMxGkI37yfWjla-BDUVQZ4/ts
-#EXTINF:-1 group-title="Sport",ATV AUSTRIA 2 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUc_xvwdn_aaqs6iAPVr_ZU/ts
-#EXTINF:-1 group-title="Sport",NAT GEO WILD HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATZ0ElyvYcCK41qttkEeSIM/ts
-#EXTINF:-1 group-title="Sport",ANIMAL PLANET HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAY0jq0h4cLWh6zQJGIaWBjo/ts
-#EXTINF:-1 group-title="Sport",SKY REPLAY HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUlpJ_7SgPxHUFH2Y-qvv48/ts
-#EXTINF:-1 group-title="Sport",WB TV FILM HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXO7JuBjKlFBduZfHQ8WUgE/ts
-#EXTINF:-1 group-title="Sport",KINOWELT HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVEfe-abt-LX6vMJoog7NT0/ts
-#EXTINF:-1 group-title="Sport",13TH STREET HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAR_Oz6ikvP5C4fi89lBZxlM/ts
-#EXTINF:-1 group-title="Sport",SKY CRIME
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXcyW0sbXjIffL-ihIEphZg/ts
-#EXTINF:-1 group-title="Sport",SKY CINEMA PREMIEREN
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAeLTKjcTgLID4Y4FpHtiw68/ts
-#EXTINF:-1 group-title="Sport",SKY ATLANTIC HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZYwoF9BUHUmcTa47yfiVKQ/ts
-#EXTINF:-1 group-title="Sport",SKY CINEMA CLASSIC
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAb8uoTX31SOdyp8Ww2LMcGg/ts
-#EXTINF:-1 group-title="Sport",SKY CINEMA PREMIEREN 24
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcAKc8FSXH0pQVbqduxXWrE/ts
-#EXTINF:-1 group-title="Sport",SKY CINEMA FAMILY
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQ2FY1Q3gI86ada_XJtRasI/ts
-#EXTINF:-1 group-title="Sport",SWR HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXHzlIIh6soOF9GuIVpJzGc/ts
-#EXTINF:-1 group-title="Sport",WELT / N24
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWasZPd7NC344F1NDKLLoiU/ts
-#EXTINF:-1 group-title="Sport",BVN (Netherland)
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWz-m358DMh6ZitmeZmv_RM/ts
-#EXTINF:-1 group-title="Sport",NTV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARoJfM85L87RB2_0u26sUCA/ts
-#EXTINF:-1 group-title="Sport",K-TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVoRdg5xTx84ARiuxnfmEfE/ts
-#EXTINF:-1 group-title="Sport",S1 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAU8-YD58KQNDoF4WAom3xjA/ts
-#EXTINF:-1 group-title="Sport",ANIXE
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUNNEXPYRgQhy3f2gjWud_M/ts
-#EXTINF:-1 group-title="Sport",SWISS 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAX_Ee66mZcvqXWStp8V_9Mk/ts
-#EXTINF:-1 group-title="Sport",TLC HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASSWQa3i-dk58y7_1o3eBJU/ts
-#EXTINF:-1 group-title="Sport",RSI LA 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATMxMPIZ651UhC1c-Zj27LA/ts
-#EXTINF:-1 group-title="Sport",RSI LA 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASHqNfhNJfgpSqvx5brzATU/ts
-#EXTINF:-1 group-title="Sport",DM Sat
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQrL8PWo6CSit8CrI2UCmzY/ts
-#EXTINF:-1 group-title="Sport",NDR HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdRcRxmVN9BkmRTeeNuVqVs/ts
-#EXTINF:-1 group-title="Sport",AXN Black HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAb8OacQcFu0X_M2nXugrGcI/ts
-#EXTINF:-1 group-title="Sport",WDR HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbthJo1cfXZ_inEZ3F5-Wy4/ts
-#EXTINF:-1 group-title="Sport",MDR HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbBLFYYMVH-TD88GqFpeSTc/ts
-#EXTINF:-1 group-title="Sport",BIBEL TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcD2Swa7xpapEdLdqKkZPvU/ts
-#EXTINF:-1 group-title="Sport",SYFY HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAS2rpE9IcejqUsPYO5N9ETs/ts
-#EXTINF:-1 group-title="Sport",PULS 8 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASuYTj17dd8EFWlFK7v4zy4/ts
-#EXTINF:-1 group-title="Sport",HSE 24 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUvxBAWW7pdXurqg8az2tPg/ts
-#EXTINF:-1 group-title="Sport",WETTER TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXL5SmIt7XDKgnQFntQXOvc/ts
-#EXTINF:-1 group-title="Sport",ARD ALPHA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYmxnL_vTfz6hfoc3ksJE_U/ts
-#EXTINF:-1 group-title="Sport",TELETOP HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfNIZHQgazdC66u4mGd995A/ts
-#EXTINF:-1 group-title="Sport",KOPERNIKUS (SRB)
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVT4pUhHXIBhB6m2zn9uphc/ts
-#EXTINF:-1 group-title="Sport",RBB BERLIN HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXAp-Rfzzhqeeyzq2Jjt5aw/ts
-#EXTINF:-1 group-title="Sport",HSE 24 EXTRA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWiRDHIsuQ8wCGBzhDDwIbw/ts
-#EXTINF:-1 group-title="Sport",VIVA AUSTRIA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZxlPj-SxoEeTAIORbDv-yI/ts
-#EXTINF:-1 group-title="Sport",EURONEWS DE
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATBRWokJF3sZXjfrkl-HJ0o/ts
-#EXTINF:-1 group-title="Sport",TELETICINO HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaDiVafMmuKtVlNxTc4Q9vk/ts
-#EXTINF:-1 group-title="Sport",HEIMATKANAL
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbTGyNR65cpDqLQDKg3GAIg/ts
-#EXTINF:-1 group-title="Sport",HR FERNSEHEN
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAagkZ6j44Zz1pisYScxuskM/ts
-#EXTINF:-1 group-title="Sport",TAGESSCHAU 24
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUVu1PeNjThGBfXiy_3WJS0/ts
-#EXTINF:-1 group-title="Sport",SONNENKLAR TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAS4PMEID3RJZMt6KddOwiUE/ts
-#EXTINF:-1 group-title="Sport",ROMANCE TV HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYPV-gSuLjS9uu_Q7_o4DSo/ts
-#EXTINF:-1 group-title="Sport",TELEBIELINGUE HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUG59TxE-xeBg-wva_6JoK0/ts
-#EXTINF:-1 group-title="Sport",BR FERNSEHEN
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATs9e4M2HEnr3ET1nwflFs4/ts
-#EXTINF:-1 group-title="Sport",TV SÜDOSTSCHWEIZ
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAf5qJDNSAvCfJ3DnXPnzLAo/ts
-#EXTINF:-1 group-title="Sport",RTL Passion
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATlWcmdJoH3Ko74tMqBngZI/ts
-#EXTINF:-1,=============== EX-Yu ===============
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXLnRpn38Yq791f1KNMsrAk/ts
-#EXTINF:-1 group-title="EX-Yu",MK: Alfa
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARvH8b3va3dO-IFhBRdIwU8/ts
-#EXTINF:-1 group-title="EX-Yu",MK: Kanal 5
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQTHc3RAw51oOE3XmrZJvzo/ts
-#EXTINF:-1 group-title="EX-Yu",MTV 2 MACEDONIA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXFDdhpUjKlDn9dkcOQtB8Y/ts
-#EXTINF:-1 group-title="EX-Yu",MK: Sitel
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcTgmP_MZP6baaMxb_OYpp8/ts
-#EXTINF:-1 group-title="EX-Yu",Kcn
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARPoIfm2dZ76ugIzJMB-5gs/ts
-#EXTINF:-1 group-title="EX-Yu",HRT 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcPZjNsqs2hKmFxDBR3OHrQ/ts
-#EXTINF:-1 group-title="EX-Yu",HRT 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAe8YbbK6Wgr2B9PVxYV5ejM/ts
-#EXTINF:-1 group-title="EX-Yu",HRT 3
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUjKganAkdAwLisSlDuFDDc/ts
-#EXTINF:-1 group-title="EX-Yu",HRT-TV4
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQJBeG697bRqNwhzASqFc2o/ts
-#EXTINF:-1 group-title="EX-Yu",OBN
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQCzt40-X7P88j8GdOLGqVk/ts
-#EXTINF:-1 group-title="EX-Yu",PINK 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAS7EH_SAJDUYd7lSeqJUyG8/ts
-#EXTINF:-1 group-title="EX-Yu",PINK 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbr_c1PI2c27GQOwJoT9Nf8/ts
-#EXTINF:-1 group-title="EX-Yu",PINK 3
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQyyyLpCiJ0LdmEwDZ_F0MA/ts
-#EXTINF:-1 group-title="EX-Yu",SLO TV 3
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYVuS1EefkhoWeXgKEMMGS8/ts
-#EXTINF:-1 group-title="EX-Yu",DUGA TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVS2kGyjMXX1GXa8UV8W_cA/ts
-#EXTINF:-1 group-title="EX-Yu",BN MUSIC
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXCe9UXErLG_T5NEwae9IKc/ts
-#EXTINF:-1 group-title="EX-Yu",ZADRUGA 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATj1J5MgHRcqupGcWL7tdXM/ts
-#EXTINF:-1 group-title="EX-Yu",BHT 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASt6EslJz1d_6O8AIifi_k4/ts
-#EXTINF:-1 group-title="EX-Yu",Pink Film
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXNfvQMMQqx69sgccdRZD80/ts
-#EXTINF:-1 group-title="EX-Yu",PINK MOVIES
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfoW0IlGr5kd9lKLyDZ8nIU/ts
-#EXTINF:-1 group-title="EX-Yu",Pink Horror
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbyOOy6dXOi8z-c4b7OIsDo/ts
-#EXTINF:-1 group-title="EX-Yu",PINK COMEDY
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYFg8wYHwNOryBZYqW-YnKE/ts
-#EXTINF:-1 group-title="EX-Yu",Pink Premium
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYIXxzp8jprOCCgsCeTCQAw/ts
-#EXTINF:-1 group-title="EX-Yu",RTS 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZTwqq3V-SEhd_hfp9xaUFc/ts
-#EXTINF:-1 group-title="EX-Yu",RTS deux
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaucR4EDpY12tDGkMUaTeMY/ts
-#EXTINF:-1 group-title="EX-Yu",SVET PLUS
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAa7Oj3LjB0Hb6ZsXpum6Qgc/ts
-#EXTINF:-1 group-title="EX-Yu",HAYAT FOLK
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAeObEmXGFzfX3tjtENEpt_8/ts
-#EXTINF:-1 group-title="EX-Yu",NOVA 24 TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdtxJkpsOF4TKmRQBB_KJ6U/ts
-#EXTINF:-1 group-title="EX-Yu",Pink World
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAR2otdKHYWeqGzGLRctq1LQ/ts
-#EXTINF:-1 group-title="EX-Yu",MELODIE TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVqyZGz6J5OlRy8Rb7TmUj0/ts
-#EXTINF:-1 group-title="EX-Yu",PINK THRILLER
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZQSkEdwYD4RyyX4Y3_yVio/ts
-#EXTINF:-1 group-title="EX-Yu",PINK CRIME AND MYSTERY
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXdrCro8y3bEITSUYQiPV24/ts
-#EXTINF:-1 group-title="EX-Yu",HAYAT MUSIC
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASooFcm1gGStPXuFCTfDwQs/ts
-#EXTINF:-1 group-title="EX-Yu",Pink Western
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaZmLA6SSH8rBlfC0WszX8Q/ts
-#EXTINF:-1 group-title="EX-Yu",POSAVINA TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYY5xR3nokBw9Atvyripcbw/ts
-#EXTINF:-1 group-title="EX-Yu",TVR INT ROMANIA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAb5zFKfEsqnhZiFz2np7Q8o/ts
-#EXTINF:-1 group-title="EX-Yu",TV MONTENEGRO
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAT0pdT_uY69BIzyWDCIRShk/ts
-#EXTINF:-1 group-title="EX-Yu",RTL HR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQ6ZvPWbyoCKYdi8kR4EAHQ/ts
-#EXTINF:-1 group-title="EX-Yu",RTL 2 HR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAV8GzZ8V6wea5q6PMr5zZSc/ts
-#EXTINF:-1 group-title="EX-Yu",HR: Nova TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAax0-0d02s9MNFHMWRIgGqo/ts
-#EXTINF:-1 group-title="EX-Yu",HR: Doma
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAU2zT2SZgT7j5Hylf6XfPZk/ts
-#EXTINF:-1 group-title="EX-Yu",HR: RTL
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARAsdAxomNlEvsDBGFkA7vI/ts
-#EXTINF:-1,=============== English ===============
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXtVva1VB51cf9vEsEw1k2c/ts
-#EXTINF:-1 group-title="English",Al Jazeera Katar
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATQXF_HncGOXEMByqeszN5U/ts
-#EXTINF:-1 group-title="English",AL JAZEERA BALKAN
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXbkYSlg7M4BSH7XkWKFOO8/ts
-#EXTINF:-1 group-title="English",Al Jazeera HD Katar
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVuocsa5DNzXQnKueKlvwEM/ts
-#EXTINF:-1 group-title="English",Al Jazeera Mubasher Katar
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbZqxyqpHuJCxgUXcLMNmIM/ts
-#EXTINF:-1 group-title="English",Al Jazeera Documentary Katar
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAX0OTmgya8ZHdWDl_agF7YU/ts
-#EXTINF:-1 group-title="English",E4
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASNoFn7_W-PJB7E96CzDc8o/ts
-#EXTINF:-1 group-title="English",ITV 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAeJXTBPPbu3PFLlKxy2XwPk/ts
-#EXTINF:-1 group-title="English",ITV 3
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAe-RVw4jkQdmN-glpcmdZh8/ts
-#EXTINF:-1 group-title="English",ITV 4
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZiWkMpNeFvz7h0JsmDhEtc/ts
-#EXTINF:-1 group-title="English",BBC 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQEB4wADKYOkzKEJEom5kco/ts
-#EXTINF:-1 group-title="English",BBC 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUn8JIU8xVopbL6-GQ2Iifw/ts
-#EXTINF:-1 group-title="English",More 4
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARqBwnVRbZrOcK6lwly6ACM/ts
-#EXTINF:-1 group-title="English",BBC World
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASTXCAG-qo0HHrnytvEEDLI/ts
-#EXTINF:-1 group-title="English",ITV HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUaFSYmeeuD1440o56-K2so/ts
-#EXTINF:-1 group-title="English",FILM 4
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQQffOouA_BDOg4HmJTCFmc/ts
-#EXTINF:-1 group-title="English",MTV HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAR58fxRxZRuEsAXEKX39sPI/ts
-#EXTINF:-1 group-title="English",ONE HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYVS59W65-1LdNX9oImqDbs/ts
-#EXTINF:-1 group-title="English",PBS AMERICA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZ3aST0TdqOKHRT9LY7Polk/ts
-#EXTINF:-1 group-title="English",CNBC INT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQ0ifH3VlgrKNPXUaUDW-Dc/ts
-#EXTINF:-1 group-title="English",CHANNEL 4 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATpm47DMzRdt9HHyc1lI0c4/ts
-#EXTINF:-1 group-title="English",CHANNEL 5 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASI_nsDdNf3Xc3d2BN58yR4/ts
-#EXTINF:-1 group-title="English",BOOMERANG / Cartoonito
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAV9BME-L1UnptZONJMUU1p8/ts
-#EXTINF:-1 group-title="English",CNN INTERNATIONAL
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYXz6F_A_jV0ClpY_Z8VR_I/ts
-#EXTINF:-1 group-title="English",Thai Global Network
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVyRbMb4KWNEW-66_BMlWeI/ts
-#EXTINF:-1 group-title="English",CGTN DOCUMENTARY
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXcLOUMcnhWAJm0ksAxuxUM/ts
-#EXTINF:-1 group-title="English",CARTOON NETWORK HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAR3Gir42Opdhjm4up9ZwWco/ts
-#EXTINF:-1 group-title="English",TRT 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYDWOt-y_5LZjMIdmYPVfK0/ts
-#EXTINF:-1 group-title="English",ATV TR Backup
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATD9TpxtCNgiDFiuP-8YXBA/ts
-#EXTINF:-1 group-title="English",SHOW TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZYTYcdPj0BXP2h4Lqa8mu8/ts
-#EXTINF:-1 group-title="English",TV 8
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATk3zxc3tYRYarN9-wY-ogY/ts
-#EXTINF:-1 group-title="English",STAR TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZBHM_1ZU4PzP-A1Z7Q_7wA/ts
-#EXTINF:-1 group-title="English",Kanal D Turk
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaHP0-Ra2uEirI8kSnPnYiw/ts
-#EXTINF:-1 group-title="English",Fox TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdpAak3jiCOJwxZOAc_u0H8/ts
-#EXTINF:-1 group-title="English",Kanal 7 Turk
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWL_nK-HqwCySp_XOSgg1WE/ts
-#EXTINF:-1 group-title="English",TELE 1 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaOmZ1dLnEkkqolXFXG-jIs/ts
-#EXTINF:-1 group-title="English",NTV Turk
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVd8IAbCdhpa6rWJagR1Fow/ts
-#EXTINF:-1 group-title="English",TRT Avaz
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZdlUvjDgXXchWFv3oDUImA/ts
-#EXTINF:-1 group-title="English",KURDMAX
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXt3ndrKHmHmD3idq0xnVYY/ts
-#EXTINF:-1 group-title="English",TELE D HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfEctEUyMFZ7ypaMgUxN41Y/ts
-#EXTINF:-1 group-title="English",TRT Muzik TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQjRLLZ2CetzVQ-5-vbdM-s/ts
-#EXTINF:-1 group-title="English",TRT World
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQy6lqItESVKvHAkkayneD4/ts
-#EXTINF:-1 group-title="English",Show Turk
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdCju92wHd5BEMAitHq-G6A/ts
-#EXTINF:-1 group-title="English",Show Max
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAc37DcY_GIM3k2MSgpN9FZk/ts
-#EXTINF:-1 group-title="English",TELE M1 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAe3Zzq5_UCTianZnqh_VHiM/ts
-#EXTINF:-1 group-title="English",TRT Cocuk
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdvuO0ryo0P7DkHYhSrLk7k/ts
-#EXTINF:-1 group-title="English",Haber Turk
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAanx02Ld_U8azXRRCrHenOU/ts
-#EXTINF:-1 group-title="English",CHANNEL 55
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaYHgNcTkRz36fx9g4pkjAw/ts
-#EXTINF:-1 group-title="English",TRT Belgesel
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAb9QyTWXQvZ75VzxHaNWqj0/ts
-#EXTINF:-1 group-title="English",DreamTV Turk
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdQ_UX7zU3PMVFo04xike5U/ts
-#EXTINF:-1,=============== France ===============
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXZO23sFruIiBuBU4Xq_f78/ts
-#EXTINF:-1 group-title="France",M6 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWsihFwhh298ULWUcp1SNEU/ts
-#EXTINF:-1 group-title="France",W9 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARF0_iD2CBuTYjaRtKaFwqw/ts
-#EXTINF:-1 group-title="France",TF 1 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYxft-qsmHRyOFR91ZTnEfU/ts
-#EXTINF:-1 group-title="France",Gulli HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXsupY_VCtHPZt527L4bRe0/ts
-#EXTINF:-1 group-title="France",FRANCE 2 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXFctFtT1FcrpUknjrx5AgQ/ts
-#EXTINF:-1 group-title="France",FRANCE 3 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdfN_HoBVbWCVnLeDQ3FzyY/ts
-#EXTINF:-1 group-title="France",FRANCE 4 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUxLdDylpZzc_eV83XWnmqk/ts
-#EXTINF:-1 group-title="France",FRANCE 5 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATlhY_UYri7H5L6IfhkbT-4/ts
-#EXTINF:-1 group-title="France",FRANCE 24 EN
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaExUcYn6MChIXucgeHFT5M/ts
-#EXTINF:-1 group-title="France",FRANCE 24 FR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcuM-o54Me6RlQQ29V-kj_c/ts
-#EXTINF:-1 group-title="France",ARAGON TV INT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAeS-oPka1x8u0t0CeNVUdBI/ts
-#EXTINF:-1 group-title="France",TV Monte Carlo HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAX5A-d_8qzQMtKbwWwJXKxg/ts
-#EXTINF:-1,=============== Italian ===============
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdNdClPc1AJJeQ-sC4gkVd0/ts
-#EXTINF:-1 group-title="Italian",Rai 1 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYgNR_9CEaWkProEcqWmwrs/ts
-#EXTINF:-1 group-title="Italian",REGIO TV (BODENSEE)
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbf4JWz35K-GR5XqlwHvha8/ts
-#EXTINF:-1 group-title="Italian",ITALY SAT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAT6-WCaVm-t8BqdY93zyxxg/ts
-#EXTINF:-1 group-title="Italian",Italia 1 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbsMxBp31Wl-MfdnoEC1koo/ts
-#EXTINF:-1 group-title="Italian",Rete 4 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAR31Vf_N9s3KqO2HfZkE-oU/ts
-#EXTINF:-1 group-title="Italian",RAI SCUOLA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfBbXilXW-4TOGx5iE7ynHc/ts
-#EXTINF:-1 group-title="Italian",TRM h24 IT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbOSiIDrWFDXcUNKO5Z83E4/ts
-#EXTINF:-1 group-title="Italian",PEOPLE TV US
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfpgN5TSn4ha8Tgaru-Oryo/ts
-#EXTINF:-1 group-title="Italian",VIDEOLINA IT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZ779nBMBdr22KNGCLcSSi0/ts
-#EXTINF:-1 group-title="Italian",Pianeta TV IT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAah_x6ke-tQ7lJJoUL6HRU0/ts
-#EXTINF:-1 group-title="Italian",CANALE ITALIA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdlc546XE1LyQB-GV43S0So/ts
-#EXTINF:-1 group-title="Italian",NAPOLI MIA IT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcBphY-XAo7WRo6PrdLRXCk/ts
-#EXTINF:-1 group-title="Italian",PADRE PIO TV IT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUFbGKAVW-qSYwpOm_Rp0ig/ts
-#EXTINF:-1 group-title="Italian",CANALE 5 HD IT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfq5nzETTpykPIpiPcMvONQ/ts
-#EXTINF:-1 group-title="Italian",TVA VICENZA IT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASVEsssr4lWv71NRpAbRde8/ts
-#EXTINF:-1 group-title="Italian",UNIRESAT HD IT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARFKcOYea9861JYpynk4jXQ/ts
-#EXTINF:-1 group-title="Italian",World Fishing TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAf3mzLdsEyeEobRjk2HVqDE/ts
-#EXTINF:-1 group-title="Italian",CANALE ITALIA 83 IT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAeHNuJpp3Qtw-AAFr2d_hHo/ts
-#EXTINF:-1 group-title="Italian",CANALE ITALIA 84 IT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAV5lShq3fP6_SUeANAtCUc4/ts
-#EXTINF:-1 group-title="Italian",CAMERA DEPUTATI
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYqgABYB1hXkJ-WfjCiTjEY/ts
-#EXTINF:-1 group-title="Italian",UNITETTUNO UNIVERSITY TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcAj-yIijQJRmjIKJOYvdLE/ts
-#EXTINF:-1 group-title="Italian",TVE INTERNACIONAL EUROPA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASGEIwpFmDpW58xuA2Xh2kM/ts
-#EXTINF:-1,=============== Arab ===============
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARbc1yntnLKhc6YXF3FGZd0/ts
-#EXTINF:-1 group-title="Arab",Zad TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARkygYH8isovgteVkNIfiLw/ts
-#EXTINF:-1 group-title="Arab",8 TV RU
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXeRO9NQTXuS6rQ2mSEN0z8/ts
-#EXTINF:-1 group-title="Arab",AL Fady
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARJQ-iR1piH5RKZdLp1Q1Ik/ts
-#EXTINF:-1 group-title="Arab",AL Hiwar
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYnCaY1BpVJfP0XxY6K67x8/ts
-#EXTINF:-1 group-title="Arab",TV Coran
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaOZRYL1wDKcXAKTi4_5tC4/ts
-#EXTINF:-1 group-title="Arab",Sat 7 Pars
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAa6EusFF1g80DzrAfTkpQPs/ts
-#EXTINF:-1 group-title="Arab",Orient News
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAabX55yEjCeQpLevPhcjnLM/ts
-#EXTINF:-1 group-title="Arab",AL Arabia HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbVsYn5BIW1H62IcQjYOy1E/ts
-#EXTINF:-1 group-title="Arab",AL Sharqiya HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXJBsUoZVgrDW7tjEcOtRQ4/ts
-#EXTINF:-1 group-title="Arab",Imam Hussein 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfItZ-8tP-2nUBu03mWMZMA/ts
-#EXTINF:-1 group-title="Arab",SKY NEWS ARABIA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXEmFI5yjSGXdipo4kd7ysw/ts
-#EXTINF:-1,=============== Spain & Portugal ===============
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcPjnspVcpwC-69SflYgeGQ/ts
-#EXTINF:-1 group-title="Spain & Portugal",Tvga ES
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAe1kAwbvij-yvCGz4zRvdWg/ts
-#EXTINF:-1 group-title="Spain & Portugal",Sic Noticias
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASa-WQPHJV7DnWUTkpudtxg/ts
-#EXTINF:-1 group-title="Spain & Portugal",TBN AFRIKA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXvhG_PA96QVwEWatkSHay0/ts
-#EXTINF:-1 group-title="Spain & Portugal",TV Record ES
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYtZeWzv2NMNgfUuhBrBVSg/ts
-#EXTINF:-1,=============== Russia ===============
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcczNYmN3u2AXdk_hq6g6SU/ts
-#EXTINF:-1 group-title="Russia",TV Rus
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUj3zQIokjvprapshHeO0SA/ts
-#EXTINF:-1 group-title="Russia",Noviy Mir
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUQYkD74G3BfNMIMZ5TshrQ/ts
-#EXTINF:-1 group-title="Russia",Russia 24
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAec5N49sbtGSjrSJ6xYeSY4/ts
-#EXTINF:-1 group-title="Russia",Russia Today News HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYA7TXjekhziAWhAAr6Ob3M/ts
-#EXTINF:-1,=============== Romania ===============
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWZSI4-TqympNzrSlJ0wVv8/ts
-#EXTINF:-1 group-title="Romania",PRO TV INT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXjXfnTzns1MX51h3PZLsi8/ts
-#EXTINF:-1,=============== Others ===============
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVT5dIcU3FW7y7crORxcWlI/ts
-#EXTINF:-1 group-title="Others",CGTN
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAen6cvRjk6kltUWQf4J-8as/ts
-#EXTINF:-1 group-title="Others",RTRS SRB
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVHotsp3miQbHrXhCXk33QU/ts
-#EXTINF:-1 group-title="Others",TV 25 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZ6l2utZ3omY3ayxpVgR9M4/ts
-#EXTINF:-1 group-title="Others",TV 24 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcJixq5GKdjuz7SHLdoy3cw/ts
-#EXTINF:-1 group-title="Others",E8 TELEVISION
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATSjok_GGVBk6xDEKFdDoNM/ts
-#EXTINF:-1 group-title="Others",TV TAMAZIGHT MAROKKO
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAerY51RYHJK7nT0Q4Zfju_U/ts
-#EXTINF:-1 group-title="Others",EWTN CATHOLIC
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARXjKuUQUEreDdovrGbAggI/ts
-#EXTINF:-1 group-title="Others",TVRUS Europe / Russia Today Nes
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQC4q_sGWQKIDkv6Gkrhylk/ts
-#EXTINF:-1 group-title="Others",AL-MAYADEEN Libanon
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAeWF4cr9K2N1XiYJAHkE_Ew/ts
-#EXTINF:-1 group-title="Others",Al Rayyan Al Qadeem HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAX6zecIOGYYOIE5Y6t3DOX8/ts
-#EXTINF:-1 group-title="Others",AUTOMOTO TV FR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYYhXxAtojy2KpTD-OUi_nk/ts
-#EXTINF:-1 group-title="Others",BLACKTV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATrsa2maOXH2APMKCktI490/ts
-#EXTINF:-1 group-title="Others",CNC WORLD ENGLISH CHINA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaNrlgEnD-nKq44C0E1tt74/ts
-#EXTINF:-1 group-title="Others",El Sharq Agypt
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYyr5d03i4pJwfx0ZX-EKdU/ts
-#EXTINF:-1 group-title="Others",Ganj e Hozour TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATNjli-TNeMVjfciu9kLSYc/ts
-#EXTINF:-1 group-title="Others",HRT INT CROATIA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXg27ZPojGg8D7XwM0nRFWg/ts
-#EXTINF:-1 group-title="Others",KBS World HD SKorea
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXSotsb0dc_A1vkBbm_8XBY/ts
-#EXTINF:-1 group-title="Others",Kurdistan TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAW8levzyZbVoN9tmOcZRWyI/ts
-#EXTINF:-1 group-title="Others",MOON LIGHT TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUy_BWjJ4MQ1CM_ZYQ9fR3M/ts
-#EXTINF:-1 group-title="Others",MTA3 Al Arabia
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfxwxtKPTQCrfjKslGJN8N0/ts
-#EXTINF:-1 group-title="Others",Reality TV TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXbotgcsKnyBY_FW0ajTNJU/ts
-#EXTINF:-1 group-title="Others",Record Tv Europa Brasil
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVqJ_yyTqz2M8QOHX21Op-Y/ts
-#EXTINF:-1 group-title="Others",Sender Neu Jerusalem 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYI0oVZa5XxTL5fpi2Lo2Lo/ts
-#EXTINF:-1 group-title="Others",Sender Neu Jerusalem
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWzwSKuwrcdirQhz-z7-Uzw/ts
-#EXTINF:-1 group-title="Others",TELE 5 POLAND
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbJdbq69vCsxfAQBOTMdaaI/ts
-#EXTINF:-1 group-title="Others",TELESUR VENEZUELA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZCbflq9Qx9jzEUV7Vk4Ymw/ts
-#EXTINF:-1 group-title="Others",i24NEWS HD FR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWAKK6TLF-MBiZx3-dhvykA/ts
-#EXTINF:-1 group-title="Others",B92
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbtM8_W22AuM9ljECtt_i7s/ts
-#EXTINF:-1 group-title="Others",HAYAT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUYI2gO2PrlEvUnpOHYN-Ec/ts
-#EXTINF:-1 group-title="Others",VOXup
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAY04yVofNk5in45Hw7FlmAA/ts
-#EXTINF:-1 group-title="Others",SERVUS TV HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAe-Qr7ZqgwevioI9Gvm6O7U/ts
-#EXTINF:-1 group-title="Others",MUENCHEN TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAeEpfUfBfCYOzXEtFRyzBCA/ts
-#EXTINF:-1 group-title="Others",HAYAT PLUS
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAT2lXF1ILcIWdrsBNrF9Qmo/ts
-#EXTINF:-1 group-title="Others",ALEX BERLIN TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZCgeZMgbwkvtatIti3d5lM/ts
-#EXTINF:-1 group-title="Others",MTV RU
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdhN23xXlspEG-Xe9pSHiXo/ts
-#EXTINF:-1 group-title="Others",STAR TV TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWAdTc2l6hcIWmL2goPq2ro/ts
-#EXTINF:-1 group-title="Others",RAI STORIA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZtU7gmfwxNPPaYOgYu7NsA/ts
-#EXTINF:-1 group-title="Others",BLOOMBERG EUROPE TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQQsBDGIMDEpJNWFFpTx0OU/ts
-#EXTINF:-1 group-title="Others",BADEN TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbKFiDvIP5-NGNOU3MroKUg/ts
-#EXTINF:-1 group-title="Others",ATV TURK
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdd-K3tozlNML37Lrmx9xzg/ts
-#EXTINF:-1 group-title="Others",RNF
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUbxk19GH3_gpNEKHTo_ua0/ts
-#EXTINF:-1 group-title="Others",SE: Kanal 5 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVENc7qpGLSUVSh1_1xNOMs/ts
-#EXTINF:-1 group-title="Others",SE: C More Live HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWyyllGJyeencpP5OsDo8zU/ts
-#EXTINF:-1 group-title="Others",SE: C More Live 2 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQ-GS8vPx62M6QHj1z7P-pU/ts
-#EXTINF:-1 group-title="Others",Bein Sport Haber / Bein Spor 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcST5yva7lOLZ6wBc4uiZko/ts
-#EXTINF:-1 group-title="Others",DMAX TURK
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARQ-g2t9nZqUdmgg2CXupBw/ts
-#EXTINF:-1 group-title="Others",TV8 int TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAeoIdeiXGBIfxPh_fUxUK6E/ts
-#EXTINF:-1 group-title="Others",TGRT Haber
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWl1X6Fku0OMph0rDuUhUfw/ts
-#EXTINF:-1 group-title="Others",CRIME + INVESTIGATION
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcma7PK-GbCCFfE_bsxBKJU/ts
-#EXTINF:-1 group-title="Others",RAI MOVIE
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdh7ZG0wZZUNyTOn5lyuKGA/ts
-#EXTINF:-1 group-title="Others",Kanal D Drama (Backup)
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAc6rOe-mlQEzB9GJD0EJKGg/ts
-#EXTINF:-1 group-title="Others",AL Sharjah Radio
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXEUovOSb2usGj2liTCxjnI/ts
-#EXTINF:-1 group-title="Others",Antenne Bayern
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXSky-6M5l--fv_Na7BIGj0/ts
-#EXTINF:-1 group-title="Others",Al Jazeera Documentaries
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaE7uqRLn1BEYFlxsXzZE5A/ts
-#EXTINF:-1 group-title="Others",HITRADIO O3
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAY0femyGVmfVb4fdCXFe4Zw/ts
-#EXTINF:-1 group-title="Others",Jam FM
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASTajpLd_QeUUJZxIOAPwFM/ts
-#EXTINF:-1 group-title="Others",Klassik Radio
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAc0J5UoHzU08pOlwo1VO68c/ts
-#EXTINF:-1 group-title="Others",MS MOTOR TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVuHOgMQC9pYS0RbpnmVQQY/ts
-#EXTINF:-1 group-title="Others",MTA 3
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfuGmkoaJHrgEcrnhBYZUxw/ts
-#EXTINF:-1 group-title="Others",Rock Antenne
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAeJSkgogyvdZZpMC5kXH4uo/ts
-#EXTINF:-1 group-title="Others",RADIO ITALIA TREND TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQznt7T2FneaUqblvwm3g3Y/ts
-#EXTINF:-1 group-title="Others",RADIO ITALIA TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQNGPjMS6D17QCHLBr1HvxY/ts
-#EXTINF:-1 group-title="Others",Radio Kiss Kiss
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZ_nQae3L05_Pmw_xYaKaS8/ts
-#EXTINF:-1 group-title="Others",Radio Paloma
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATwFjXTPgiFO5u1N_egUtcY/ts
-#EXTINF:-1 group-title="Others",Radio Tirana 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcTTNYUxBZL2vhlM95LiU8s/ts
-#EXTINF:-1 group-title="Others",Radio Tirana 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZhHqE0HVJwOUXzKfgZnAwQ/ts
-#EXTINF:-1 group-title="Others",Radio Tirana Internacional
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATARetskphaeqqfiwdHlNA8/ts
-#EXTINF:-1 group-title="Others",Radio Tirana Klasik
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaYlckxxRC8t1Cma_NtepXw/ts
-#EXTINF:-1 group-title="Others",RAI 4
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaAT6UTKdbyoZjaTayEKvoY/ts
-#EXTINF:-1 group-title="Others",SAT 1 BAYERN
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUjHcf1A4ROxPUddcbyAaSw/ts
-#EXTINF:-1 group-title="Others",TVCG SRB SAT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARoKY707N9Cu7AZD3JlLtw0/ts
-#EXTINF:-1 group-title="Others",TV INTERNACIONAL HB
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAd5ZC6_vH3VajdaCI_LdU8g/ts
-#EXTINF:-1 group-title="Others",Top Albania Radio
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbEqziqlXJPfY1uwUgwFbz8/ts
-#EXTINF:-1 group-title="Others",Z1 CRO
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcPRNclkd0bG8UoajHLX1NM/ts
-#EXTINF:-1 group-title="Others",RB BRANDENBURG
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZ85dFFgAdcUwWEcj_JY1SE/ts
-#EXTINF:-1 group-title="Others",Sunshine Live
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbsErmHFKP0US5g_US0Tkb8/ts
-#EXTINF:-1 group-title="Others",RAI YOYO
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdd6ZwlduthXrOXtsJItnTg/ts
-#EXTINF:-1 group-title="Others",RAI NEWS
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARLf-c-a3vrsQmwjVkFf1oQ/ts
-#EXTINF:-1 group-title="Others",RAI SPORT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVwTe3bozVdwvzpMyhXC5Bc/ts
-#EXTINF:-1 group-title="Others",SKY SPORT GOLF EN
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAa4xnVe3k44W-hFwmi3JkT0/ts
-#EXTINF:-1 group-title="Others",4FUN DANCE POLAND
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQsxRTImFM4vqJzdcoqdrCY/ts
-#EXTINF:-1 group-title="Others",4FUN KIDS POLAND
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVmnjLo1yKPbobdNYbW2LQg/ts
-#EXTINF:-1 group-title="Others",4FUN TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARqTRK6DT_CXgpwEIdUTPfc/ts
-#EXTINF:-1 group-title="Others",7D7 Estonia
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARK9NXL-dspALsOrPhCqwkE/ts
-#EXTINF:-1 group-title="Others",Dubai International HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAX99VAs8UNEZt3IvPQUoeeY/ts
-#EXTINF:-1 group-title="Others",RTP INTERNATIONAL
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAc6a8abL4iHWzFGJj_irFTo/ts
-#EXTINF:-1 group-title="Others",TLC AUSTRIA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcWhfMDgWR5fkVrl78B9DTs/ts
-#EXTINF:-1 group-title="Others",DEUTSCHES MUSIK FERNSEHEN
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVE2t18JITq1tOGm0ERFkg4/ts
-#EXTINF:-1 group-title="Others",STARS TV POLAND
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAak-5TmRK5iQglLD2IWomMA/ts
-#EXTINF:-1 group-title="Others",AL AOULA INTER MAROKKO
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQeOgTbmehDKnCejeEuI2yE/ts
-#EXTINF:-1 group-title="Others",AL MAGHRIBIA HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQdqGzkEdV32vSLcG7NFoq8/ts
-#EXTINF:-1 group-title="Others",ARRYADIA HD MAROKKO
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUGCn1u3HW2Oklh8lxrUQSY/ts
-#EXTINF:-1 group-title="Others",ASSADISSA HD MAROKKO
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQLE6KBcb827EtZgqij-xno/ts
-#EXTINF:-1 group-title="Others",ATHAQAFIA HD MAROKKO
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWv6j3xaQc4U27F14KgWswg/ts
-#EXTINF:-1 group-title="Others",LAAYOUNE TV HD MAROKKO
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfj1tpUxbExJJNJvSftOjYA/ts
-#EXTINF:-1 group-title="Others",Jordan TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaXBWxGJcGa1lKfIGy1VUHg/ts
-#EXTINF:-1 group-title="Others",KUWAIT TV1 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARc8Nl5_OBZ8vcJBMO9iqnk/ts
-#EXTINF:-1 group-title="Others",Libya AL Wataniya
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAV1nUr5Ha6M6I9s2zUW3Olo/ts
-#EXTINF:-1 group-title="Others",OMAN TV HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfurp8j52zzh30bBci4r07c/ts
-#EXTINF:-1 group-title="Others",SUDAN TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaFHNw27TAjkq6lKJnDranE/ts
-#EXTINF:-1 group-title="Others",TVC POLAND
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaIoKgHOyszux318IHSY49I/ts
-#EXTINF:-1 group-title="Others",TVP POLONIA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcntZuk86dzSzA2UngTPkv4/ts
-#EXTINF:-1 group-title="Others",Al Karma TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWGB-r3M_9FSXLxqLBNizzs/ts
-#EXTINF:-1 group-title="Others",ARTE INVESTIMENTI
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAUUNEM970NvuQpcvG7JQPKw/ts
-#EXTINF:-1 group-title="Others",CANALE ITALIA 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfybNQO3rp_ntLFndPaxHAA/ts
-#EXTINF:-1 group-title="Others",FASHION TV FR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcZ7hkYInshgmFuFVA9_CZA/ts
-#EXTINF:-1 group-title="Others",TELECUPOLE IT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfDES5k-qS7tbwadA70RNbA/ts
-#EXTINF:-1 group-title="Others",CLASS TV MODA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAc0V8EmREpotCdfMDMGdF3U/ts
-#EXTINF:-1 group-title="Others",UA TV Ukraine
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcHbKOHRI20DI-Ab1rQrqOg/ts
-#EXTINF:-1 group-title="Others",COMEDY CENTRAL
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfqzNSj-_yaA5_U46J9WfWQ/ts
-#EXTINF:-1 group-title="Others",RTS UN
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaI__GVtC_MbxS6Y8QT3e9o/ts
-#EXTINF:-1 group-title="Others",SLO TV 2
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZUCRHNQKxhH4o0ykqAIBwk/ts
-#EXTINF:-1 group-title="Others",TV GLOBO NOW
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYYhe5Gp3FaIaekIIRRga7s/ts
-#EXTINF:-1 group-title="Others",BLOOMBERG TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAWUv17iZwlEUihz-BKJmaIU/ts
-#EXTINF:-1 group-title="Others",Haberturk TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAe186G_su889FY3KMa4b7J4/ts
-#EXTINF:-1 group-title="Others",TRT Haber TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbuJWgh9qwSoKQDM8bsqxN4/ts
-#EXTINF:-1 group-title="Others",TRT Kurdi HD TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXcQ09iPxUBO6EFA_TcTNZE/ts
-#EXTINF:-1 group-title="Others",TRT Turk
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAeFvReoOE0l80iyldBWR7LY/ts
-#EXTINF:-1 group-title="Others",363 TV TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAStuZTWQoi9yLJcx6M45bXk/ts
-#EXTINF:-1 group-title="Others",Anadolu Dernek TV TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVUwJkZljycXExqNaYmPqc0/ts
-#EXTINF:-1 group-title="Others",Bahartürk
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAe2AOHUGihwNoJnEQQV4svU/ts
-#EXTINF:-1 group-title="Others",CNN Türk TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdw6jN7Y0IqgHgZDQYf9kFo/ts
-#EXTINF:-1 group-title="Others",Ekintürk TV TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vASm3SvSmA3h6UAYbbCXOG70/ts
-#EXTINF:-1 group-title="Others",EURO D TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAX5ZFpCVgXG83zLlczB4Zes/ts
-#EXTINF:-1 group-title="Others",Tarim Türk TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQs4UvauSyblEhaMbr5qIXI/ts
-#EXTINF:-1 group-title="Others",Vatan TR
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATECHVNZOkqjjlHkDZBA-gw/ts
-#EXTINF:-1 group-title="Others",Beyaz TV HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZLciEV82PgA-Aa9xPIK__w/ts
-#EXTINF:-1 group-title="Others",Diyanet TV HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAezXYVQzyBg1bKZWu4AvvhU/ts
-#EXTINF:-1 group-title="Others",HABER GLOBAL
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYLESSgqAHqXFIq16_ueGUA/ts
-#EXTINF:-1 group-title="Others",Dost TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZUW-jqSfMogrTrysswl9D8/ts
-#EXTINF:-1 group-title="Others",EDESSA TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXjAegO8g6Ovmaya_TbUeEM/ts
-#EXTINF:-1 group-title="Others",A Haber
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVE3bVEpsMFYz2BARvcqz9E/ts
-#EXTINF:-1 group-title="Others",GRT TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcmIbS2gYVERqTySNeJNSXs/ts
-#EXTINF:-1 group-title="Others",Guneydogu TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVkapPAoyd_U9JpTG-uOnT8/ts
-#EXTINF:-1 group-title="Others",Halk TV HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAa0-SuOz-o-BjDcdEYxpa9Q/ts
-#EXTINF:-1 group-title="Others",HRT Akdeniz TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARnVKmbLPOYi-2hjDLpPay0/ts
-#EXTINF:-1 group-title="Others",KARDELEN TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQ1SQdJI71OvQ0MbUepVV4U/ts
-#EXTINF:-1 group-title="Others",Kanal 7 Avrupa HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARORiBBYb2FvIvAog8PNSg8/ts
-#EXTINF:-1 group-title="Others",Kanal Urfa
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAfbRhtzbgD_zFXbbXSobCOY/ts
-#EXTINF:-1 group-title="Others",Lalegul TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARLeV-zbFLuWIlVqjuc9fvA/ts
-#EXTINF:-1 group-title="Others",Line TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaZNqBM0bS6VHN3v-OoJOKw/ts
-#EXTINF:-1 group-title="Others",Rehber TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYbX6ySTkM5BLmly8R-5UuI/ts
-#EXTINF:-1 group-title="Others",TH Turkhaber
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbapyNpuNT-EuvxDBoPfQkg/ts
-#EXTINF:-1 group-title="Others",24 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAV67mMddbJi3xxUBE8-Bn_8/ts
-#EXTINF:-1 group-title="Others",360 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZxNQEvODtqScne2N0XXeSI/ts
-#EXTINF:-1 group-title="Others",TV 4 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZr-b2uWb5w_ntjp7qBO0p4/ts
-#EXTINF:-1 group-title="Others",Kanal V
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAdvx1NKQl2WMdjtd0dXcJYk/ts
-#EXTINF:-1 group-title="Others",Mavi Karadeniz
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAT40OI5hkMt2Gr7tFn4QTsE/ts
-#EXTINF:-1 group-title="Others",Power HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAV6d46CAbW3ESwim6PYbx0M/ts
-#EXTINF:-1 group-title="Others",Powerturk
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAc7yENCi1zF9wp-j5XomcCI/ts
-#EXTINF:-1 group-title="Others",Sun RTV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAYwRHbXc0JfuKfhDWkhPrcw/ts
-#EXTINF:-1 group-title="Others",Alsat Backup (h265)
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAU-96iMwwcyy6rN_vyiKs5c/ts
-#EXTINF:-1 group-title="Others",THT
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZLp4iCmzBerozMk25N-0ng/ts
-#EXTINF:-1 group-title="Others",ABU DHABI TV HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAcs3aTH5zsSli-bDizn11OU/ts
-#EXTINF:-1 group-title="Others",AL SHARJAH HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAVK0wPrOauptdVWZA6eTtWQ/ts
-#EXTINF:-1 group-title="Others",ALB SWISS TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAR8gtIu92KDHKJmWg1wu340/ts
-#EXTINF:-1 group-title="Others",RTL 9 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAerhFcZOxaIAvtx8GIXNuvo/ts
-#EXTINF:-1 group-title="Others",RTL CRIME HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAbIxfMPRgdcVcH1PKLKwa28/ts
-#EXTINF:-1 group-title="Others",HELVETIA ONE TV
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAXBeQjVUKpQsF2AYO5LtY4w/ts
-#EXTINF:-1 group-title="Others",ARTE HD FRANCE
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAR_Y3wilvR5W4TyE4Pp_N0w/ts
-#EXTINF:-1 group-title="Others",Spor Smart 2 HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAX23WPsgb5C4OnKN9mJo6dg/ts
-#EXTINF:-1 group-title="Others",SKY CINEMA ACTION DE
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZbVL2enHxxrO3IcT8Kcnyg/ts
-#EXTINF:-1 group-title="Others",WB TV SERIE HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAaUp5ndpFdTZNdoZP_Wq8Rs/ts
-#EXTINF:-1 group-title="Others",WB TV COMEDY HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAR5DjHZDP9NEwVkRfkLNGkQ/ts
-#EXTINF:-1 group-title="Others",Sky Formel 1
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vATy8Zd2yJx-nqHl51KRzqEg/ts
-#EXTINF:-1 group-title="Others",LOVE NATURE USA
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAa2tK1TfamRreCbAjgNHSsE/ts
-#EXTINF:-1 group-title="Others",PT: SIC Live
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAZahGV2zLwUPOD6FDBiUCPA/ts
-#EXTINF:-1 group-title="Others",Glam Radio Gold
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAQdJpgW0eohqy121jArWFuc/ts
-#EXTINF:-1 group-title="Others",BLUE ACTION HD
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vARiHTnM4Vj2Psrzsbv2AmWg/ts
-#EXTINF:-1 group-title="Others",BLUE ZOOM
-http://saturn.dyndns.tv:80/play/o4aE7qeG4CLj_Z1xsJ_vAT2x7EyqrfWmtboob-iUFuI/ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 2" tvg-logo="https://i.ibb.co/7W93WCs/Promi-Big-Brother-raw.png" group-title="AL ✨ Albania Channels",AL: Big Brother 2
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865751.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Big Brother 1" tvg-logo="https://i.ibb.co/7W93WCs/Promi-Big-Brother-raw.png" group-title="AL ✨ Albania Channels",AL: Big Brother 1
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865752.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 1" tvg-logo="http://135.125.239.110/icon/605048.png" group-title="AL ✨ Albania Channels",AL: RTK 1
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865753.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 2" tvg-logo="http://135.125.239.110/icon/242987.png" group-title="AL ✨ Albania Channels",AL: RTK 2
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865754.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 3" tvg-logo="http://135.125.239.110/icon/814819.png" group-title="AL ✨ Albania Channels",AL: RTK 3
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865755.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4" tvg-logo="http://135.125.239.110/icon/408055.png" group-title="AL ✨ Albania Channels",AL: RTK 4
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865756.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 1" tvg-logo="http://135.125.239.110/icon/106172.png" group-title="AL ✨ Albania Channels",AL: RTV 1
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865757.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tëvë1" tvg-logo="http://135.125.239.110/icon/322315.png" group-title="AL ✨ Albania Channels",AL: Tëvë1
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865758.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: KTV" tvg-logo="http://135.125.239.110/icon/250845.png" group-title="AL ✨ Albania Channels",AL: KTV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865759.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alsat" tvg-logo="http://135.125.239.110/icon/110727.png" group-title="AL ✨ Albania Channels",AL: Alsat
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865760.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top Channel" tvg-logo="http://135.125.239.110/icon/865902.png" group-title="AL ✨ Albania Channels",AL: Top Channel
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865761.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan" tvg-logo="http://135.125.239.110/icon/441803.png" group-title="AL ✨ Albania Channels",AL: Klan
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865762.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan" tvg-logo="http://135.125.239.110/icon/523838.png" group-title="AL ✨ Albania Channels",AL: Klan
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865763.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Kosova" tvg-logo="http://135.125.239.110/icon/502148.png" group-title="AL ✨ Albania Channels",AL: Klan Kosova
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865764.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Klan Plus" tvg-logo="http://135.125.239.110/icon/869070.png" group-title="AL ✨ Albania Channels",AL: Klan Plus
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865765.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: T7" tvg-logo="http://135.125.239.110/icon/129846.png" group-title="AL ✨ Albania Channels",AL: T7
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865766.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Dukagjini" tvg-logo="http://135.125.239.110/icon/716094.png" group-title="AL ✨ Albania Channels",AL: TV Dukagjini
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865767.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: ATV" tvg-logo="http://135.125.239.110/icon/634933.png" group-title="AL ✨ Albania Channels",AL: ATV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865768.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: ATV" tvg-logo="http://135.125.239.110/icon/652836.png" group-title="AL ✨ Albania Channels",AL: ATV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865769.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Turkisch Stories" tvg-logo="http://135.125.239.110/icon/949911.png" group-title="AL ✨ Albania Channels",AL: Tring Turkisch Stories
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865770.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: First Channel" tvg-logo="http://135.125.239.110/icon/912988.png" group-title="AL ✨ Albania Channels",AL: First Channel
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865771.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Vizion Plus" tvg-logo="http://135.125.239.110/icon/471120.png" group-title="AL ✨ Albania Channels",AL: Vizion Plus
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865772.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanali 7" tvg-logo="http://135.125.239.110/icon/143196.png" group-title="AL ✨ Albania Channels",AL: Kanali 7
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865773.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kanali 10" tvg-logo="http://135.125.239.110/icon/676896.png" group-title="AL ✨ Albania Channels",AL: Kanali 10
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865774.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Abc News" tvg-logo="http://135.125.239.110/icon/469326.png" group-title="AL ✨ Albania Channels",AL: Abc News
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865775.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Euronews" tvg-logo="http://135.125.239.110/icon/788508.png" group-title="AL ✨ Albania Channels",AL: Euronews
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865776.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: News 24" tvg-logo="http://135.125.239.110/icon/172724.png" group-title="AL ✨ Albania Channels",AL: News 24
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865777.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fax News" tvg-logo="http://135.125.239.110/icon/473230.png" group-title="AL ✨ Albania Channels",AL: Fax News
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865778.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top News" tvg-logo="http://135.125.239.110/icon/605776.png" group-title="AL ✨ Albania Channels",AL: Top News
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865779.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ora News" tvg-logo="http://135.125.239.110/icon/325019.png" group-title="AL ✨ Albania Channels",AL: Ora News
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865780.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Scan TV" tvg-logo="http://135.125.239.110/icon/485724.png" group-title="AL ✨ Albania Channels",AL: Scan TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865781.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Syri News" tvg-logo="http://135.125.239.110/icon/825016.png" group-title="AL ✨ Albania Channels",AL: Syri News
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865782.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Star Plus" tvg-logo="http://135.125.239.110/icon/905682.png" group-title="AL ✨ Albania Channels",AL: Star Plus
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865783.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Report TV" tvg-logo="http://135.125.239.110/icon/612805.png" group-title="AL ✨ Albania Channels",AL: Report TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865784.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtsh 1" tvg-logo="http://135.125.239.110/icon/791058.png" group-title="AL ✨ Albania Channels",AL: Rtsh 1
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865785.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtsh 2" tvg-logo="http://135.125.239.110/icon/647085.png" group-title="AL ✨ Albania Channels",AL: Rtsh 2
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865786.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtsh 3" tvg-logo="http://135.125.239.110/icon/862488.png" group-title="AL ✨ Albania Channels",AL: Rtsh 3
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865787.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtsh 24" tvg-logo="http://135.125.239.110/icon/609889.png" group-title="AL ✨ Albania Channels",AL: Rtsh 24
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865788.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtsh Plus" tvg-logo="http://135.125.239.110/icon/410171.png" group-title="AL ✨ Albania Channels",AL: Rtsh Plus
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865789.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtsh Film" tvg-logo="http://135.125.239.110/icon/483820.png" group-title="AL ✨ Albania Channels",AL: Rtsh Film
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865790.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtsh Korca" tvg-logo="http://135.125.239.110/icon/119911.png" group-title="AL ✨ Albania Channels",AL: Rtsh Korca
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865791.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtsh Shqip" tvg-logo="http://135.125.239.110/icon/185407.png" group-title="AL ✨ Albania Channels",AL: Rtsh Shqip
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865792.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtsh Kuvend" tvg-logo="http://135.125.239.110/icon/469393.png" group-title="AL ✨ Albania Channels",AL: Rtsh Kuvend
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865793.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Mrt 2" tvg-logo="http://135.125.239.110/icon/961079.png" group-title="AL ✨ Albania Channels",AL: Mrt 2
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865794.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 Mix" tvg-logo="http://135.125.239.110/icon/616434.png" group-title="AL ✨ Albania Channels",AL: RTV 21 Mix
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865795.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Uk" tvg-logo="http://135.125.239.110/icon/358459.png" group-title="AL ✨ Albania Channels",AL: Alb Uk
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865796.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Koha TV" tvg-logo="http://135.125.239.110/icon/113671.png" group-title="AL ✨ Albania Channels",AL: Koha TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865797.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tdc" tvg-logo="http://135.125.239.110/icon/308114.png" group-title="AL ✨ Albania Channels",AL: Tdc
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865798.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Shenja TV" tvg-logo="http://135.125.239.110/icon/157936.png" group-title="AL ✨ Albania Channels",AL: Shenja TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865799.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Peace TV" tvg-logo="http://135.125.239.110/icon/798576.png" group-title="AL ✨ Albania Channels",AL: Peace TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865800.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Besa TV" tvg-logo="http://135.125.239.110/icon/633071.png" group-title="AL ✨ Albania Channels",AL: Besa TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865801.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Era TV" tvg-logo="http://135.125.239.110/icon/999654.png" group-title="AL ✨ Albania Channels",AL: Era TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865802.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Zjarr TV" tvg-logo="http://135.125.239.110/icon/856362.png" group-title="AL ✨ Albania Channels",AL: Zjarr TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865803.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Portokalli" tvg-logo="http://135.125.239.110/icon/941197.png" group-title="AL ✨ Albania Channels",AL: Portokalli
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865804.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Mitrovica" tvg-logo="http://135.125.239.110/icon/166574.png" group-title="AL ✨ Albania Channels",AL: TV Mitrovica
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865805.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Istogu CHannel" tvg-logo="http://135.125.239.110/icon/956308.png" group-title="AL ✨ Albania Channels",AL: Istogu CHannel
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865806.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtsh Sport" tvg-logo="http://135.125.239.110/icon/149778.png" group-title="AL ✨ Albania Channels",AL: Rtsh Sport
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865876.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1" tvg-logo="http://135.125.239.110/icon/783470.png" group-title="AL ✨ Albania Channels",AL: Super Sport 1
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865877.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2" tvg-logo="http://135.125.239.110/icon/345460.png" group-title="AL ✨ Albania Channels",AL: Super Sport 2
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865878.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3" tvg-logo="http://135.125.239.110/icon/179645.png" group-title="AL ✨ Albania Channels",AL: Super Sport 3
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865879.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4" tvg-logo="http://135.125.239.110/icon/646543.png" group-title="AL ✨ Albania Channels",AL: Super Sport 4
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865880.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 5" tvg-logo="http://135.125.239.110/icon/936264.png" group-title="AL ✨ Albania Channels",AL: Super Sport 5
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865881.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sports News" tvg-logo="http://135.125.239.110/icon/390583.png" group-title="AL ✨ Albania Channels",AL: Tring Sports News
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865882.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sports 4" tvg-logo="http://135.125.239.110/icon/541095.png" group-title="AL ✨ Albania Channels",AL: Tring Sports 4
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865883.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: K Sport 1" tvg-logo="http://135.125.239.110/icon/644183.png" group-title="AL ✨ Albania Channels",AL: K Sport 1
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865884.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: K Sport 2" tvg-logo="http://135.125.239.110/icon/888693.png" group-title="AL ✨ Albania Channels",AL: K Sport 2
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865885.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: K Sport 3" tvg-logo="http://135.125.239.110/icon/165708.png" group-title="AL ✨ Albania Channels",AL: K Sport 3
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865886.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: K Sport 4" tvg-logo="http://135.125.239.110/icon/313463.png" group-title="AL ✨ Albania Channels",AL: K Sport 4
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865887.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: K Sport 5" tvg-logo="http://135.125.239.110/icon/936322.png" group-title="AL ✨ Albania Channels",AL: K Sport 5
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865888.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 1" tvg-logo="http://135.125.239.110/icon/808933.png" group-title="AL ✨ Albania Channels",AL: Art Sport 1
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865889.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 2" tvg-logo="http://135.125.239.110/icon/805514.png" group-title="AL ✨ Albania Channels",AL: Art Sport 2
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865890.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 3" tvg-logo="http://135.125.239.110/icon/229924.png" group-title="AL ✨ Albania Channels",AL: Art Sport 3
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865891.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 4" tvg-logo="http://135.125.239.110/icon/987860.png" group-title="AL ✨ Albania Channels",AL: Art Sport 4
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865892.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 5" tvg-logo="http://135.125.239.110/icon/864228.png" group-title="AL ✨ Albania Channels",AL: Art Sport 5
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865893.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Sport 6" tvg-logo="http://135.125.239.110/icon/929114.png" group-title="AL ✨ Albania Channels",AL: Art Sport 6
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865894.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eurosport 1" tvg-logo="http://135.125.239.110/icon/180570.png" group-title="AL ✨ Albania Channels",AL: Eurosport 1
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865895.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eurosport 2" tvg-logo="http://135.125.239.110/icon/515124.png" group-title="AL ✨ Albania Channels",AL: Eurosport 2
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865896.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fightbox" tvg-logo="http://135.125.239.110/icon/255555.png" group-title="AL ✨ Albania Channels",AL: Fightbox
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865897.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Doku 1" tvg-logo="http://135.125.239.110/icon/497674.png" group-title="AL ✨ Albania Channels",AL: Art Doku 1
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865898.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Art Doku 2" tvg-logo="http://135.125.239.110/icon/349403.png" group-title="AL ✨ Albania Channels",AL: Art Doku 2
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865899.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Histori" tvg-logo="http://135.125.239.110/icon/555262.png" group-title="AL ✨ Albania Channels",AL: Explorer Histori
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865900.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Natyra" tvg-logo="http://135.125.239.110/icon/764899.png" group-title="AL ✨ Albania Channels",AL: Explorer Natyra
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865901.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Explorer Shkence" tvg-logo="http://135.125.239.110/icon/994788.png" group-title="AL ✨ Albania Channels",AL: Explorer Shkence
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865902.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Animal Planet" tvg-logo="http://135.125.239.110/icon/399698.png" group-title="AL ✨ Albania Channels",AL: Animal Planet
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865903.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Discovery Channel" tvg-logo="http://135.125.239.110/icon/405657.png" group-title="AL ✨ Albania Channels",AL: Discovery Channel
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865904.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Discovery Science" tvg-logo="http://135.125.239.110/icon/718286.png" group-title="AL ✨ Albania Channels",AL: Discovery Science
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865905.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: National Geographic" tvg-logo="http://135.125.239.110/icon/785450.png" group-title="AL ✨ Albania Channels",AL: National Geographic
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865906.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: 24 Kitchen" tvg-logo="http://135.125.239.110/icon/125447.png" group-title="AL ✨ Albania Channels",AL: 24 Kitchen
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865907.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Travel Channel" tvg-logo="http://135.125.239.110/icon/208673.png" group-title="AL ✨ Albania Channels",AL: Travel Channel
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865908.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring History" tvg-logo="http://135.125.239.110/icon/546118.png" group-title="AL ✨ Albania Channels",AL: Tring History
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865909.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Planet" tvg-logo="http://135.125.239.110/icon/357804.png" group-title="AL ✨ Albania Channels",AL: Tring Planet
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865910.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring World" tvg-logo="http://135.125.239.110/icon/720622.png" group-title="AL ✨ Albania Channels",AL: Tring World
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865911.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Fashion TV" tvg-logo="http://135.125.239.110/icon/520384.png" group-title="AL ✨ Albania Channels",AL: Fashion TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865912.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Pendimi" tvg-logo="http://135.125.239.110/icon/106887.png" group-title="AL ✨ Albania Channels",AL: RTV Pendimi
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865913.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Meka Live" tvg-logo="http://135.125.239.110/icon/976503.png" group-title="AL ✨ Albania Channels",AL: Meka Live
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865914.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ashkali Islam" tvg-logo="http://135.125.239.110/icon/942857.png" group-title="AL ✨ Albania Channels",AL: Ashkali Islam
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865915.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Islam Channel Quran" tvg-logo="http://135.125.239.110/icon/450898.png" group-title="AL ✨ Albania Channels",AL: Islam Channel Quran
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865916.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dasma TV" tvg-logo="http://135.125.239.110/icon/177007.png" group-title="AL ✨ Albania Channels",AL: Dasma TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865917.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cifteli" tvg-logo="http://135.125.239.110/icon/648536.png" group-title="AL ✨ Albania Channels",AL: Cifteli
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865918.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Shota TV" tvg-logo="http://135.125.239.110/icon/775739.png" group-title="AL ✨ Albania Channels",AL: Shota TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865919.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Supersonic TV" tvg-logo="http://135.125.239.110/icon/304925.png" group-title="AL ✨ Albania Channels",AL: Supersonic TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865920.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Bbf Music TV" tvg-logo="http://135.125.239.110/icon/255917.png" group-title="AL ✨ Albania Channels",AL: Bbf Music TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865921.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtsh Muzike" tvg-logo="http://135.125.239.110/icon/951334.png" group-title="AL ✨ Albania Channels",AL: Rtsh Muzike
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865922.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Top Estrada TV" tvg-logo="http://135.125.239.110/icon/384139.png" group-title="AL ✨ Albania Channels",AL: Top Estrada TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865923.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Shari" tvg-logo="http://135.125.239.110/icon/730871.png" group-title="AL ✨ Albania Channels",AL: TV Shari
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865924.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Fontana" tvg-logo="http://135.125.239.110/icon/318465.png" group-title="AL ✨ Albania Channels",AL: RTV Fontana
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865925.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Uk" tvg-logo="http://135.125.239.110/icon/559850.png" group-title="AL ✨ Albania Channels",AL: Alb Uk
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865926.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Folk Music" tvg-logo="http://135.125.239.110/icon/364466.png" group-title="AL ✨ Albania Channels",AL: Folk Music
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865927.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Opoja" tvg-logo="http://135.125.239.110/icon/666733.png" group-title="AL ✨ Albania Channels",AL: TV Opoja
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865928.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Elrodi TV" tvg-logo="http://135.125.239.110/icon/142735.png" group-title="AL ✨ Albania Channels",AL: Elrodi TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865929.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: STV Folk" tvg-logo="http://135.125.239.110/icon/897862.png" group-title="AL ✨ Albania Channels",AL: STV Folk
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865930.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Blue Sky TV" tvg-logo="http://135.125.239.110/icon/708486.png" group-title="AL ✨ Albania Channels",AL: Blue Sky TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865931.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: My Music" tvg-logo="http://135.125.239.110/icon/568773.png" group-title="AL ✨ Albania Channels",AL: My Music
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865932.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Amol TV" tvg-logo="http://135.125.239.110/icon/155435.png" group-title="AL ✨ Albania Channels",AL: Amol TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865933.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Zico TV" tvg-logo="http://135.125.239.110/icon/998318.png" group-title="AL ✨ Albania Channels",AL: Zico TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865934.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Istogu Channel" tvg-logo="http://135.125.239.110/icon/173999.png" group-title="AL ✨ Albania Channels",AL: Istogu Channel
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865935.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Roma TV" tvg-logo="http://135.125.239.110/icon/433972.png" group-title="AL ✨ Albania Channels",AL: Roma TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865936.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Muse TV" tvg-logo="http://135.125.239.110/icon/325514.png" group-title="AL ✨ Albania Channels",AL: Muse TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865937.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Pollogu" tvg-logo="http://135.125.239.110/icon/641454.png" group-title="AL ✨ Albania Channels",AL: Pollogu
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865938.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Liria" tvg-logo="http://135.125.239.110/icon/411210.png" group-title="AL ✨ Albania Channels",AL: TV Liria
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865939.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Uskana" tvg-logo="http://135.125.239.110/icon/393590.png" group-title="AL ✨ Albania Channels",AL: TV Uskana
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865940.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Popullore" tvg-logo="http://135.125.239.110/icon/194756.png" group-title="AL ✨ Albania Channels",AL: Dark Popullore
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865941.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Tallava" tvg-logo="http://135.125.239.110/icon/319051.png" group-title="AL ✨ Albania Channels",AL: Dark Tallava
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865942.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Turke" tvg-logo="http://135.125.239.110/icon/113265.png" group-title="AL ✨ Albania Channels",AL: Dark Turke
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865943.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rozafa TV" tvg-logo="http://135.125.239.110/icon/267513.png" group-title="AL ✨ Albania Channels",AL: Rozafa TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865944.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Baby TV" tvg-logo="http://135.125.239.110/icon/254236.png" group-title="AL ✨ Albania Channels",AL: Baby TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865945.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sofia" tvg-logo="http://135.125.239.110/icon/633102.png" group-title="AL ✨ Albania Channels",AL: Sofia
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865946.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tip TV" tvg-logo="http://135.125.239.110/icon/978544.png" group-title="AL ✨ Albania Channels",AL: Tip TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865947.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Rtsh Femije" tvg-logo="http://135.125.239.110/icon/878600.png" group-title="AL ✨ Albania Channels",AL: Rtsh Femije
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865948.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Tring" tvg-logo="http://135.125.239.110/icon/691961.png" group-title="AL ✨ Albania Channels",AL: Tring Tring
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865949.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Kids" tvg-logo="http://135.125.239.110/icon/570983.png" group-title="AL ✨ Albania Channels",AL: Tring Kids
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865950.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Smile" tvg-logo="http://135.125.239.110/icon/565870.png" group-title="AL ✨ Albania Channels",AL: Tring Smile
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865951.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Bang Bang" tvg-logo="http://135.125.239.110/icon/990114.png" group-title="AL ✨ Albania Channels",AL: Bang Bang
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865952.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Cufo" tvg-logo="http://135.125.239.110/icon/101685.png" group-title="AL ✨ Albania Channels",AL: Cufo
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865953.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Pikaboo" tvg-logo="http://135.125.239.110/icon/714942.png" group-title="AL ✨ Albania Channels",AL: Pikaboo
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865954.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Junior TV" tvg-logo="http://135.125.239.110/icon/851583.png" group-title="AL ✨ Albania Channels",AL: Junior TV
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865955.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dark Aventure" tvg-logo="http://135.125.239.110/icon/917524.png" group-title="AL ✨ Albania Channels",AL: Dark Aventure
+http://abc4.4734678934.xyz:80/live/Kenan0258/Vip34/865956.ts
